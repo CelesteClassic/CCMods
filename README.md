@@ -33,7 +33,7 @@ Real Funk | Acedic | 2021-02-14 | [Download](https://cdn.discordapp.com/attachme
 Why? (Ruins) | Acedic | 2020-07-02 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38345&tkey=RNcKOe8uAP5DRYuKdAX4) | A challenging mod with some new mechanics
 Scrolleste | Warspyking | 2021-02-05 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=41751) | A scrolling mod with lava slowly rising. 037
 Selena | Baldjared | 2016-12-13 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=39035) | An older short mod
-SNEK mod | taco360 | 2020-06-01 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=77497) | A mod about respecting other people's property
+SNEK mod | Lord SNEK, taco360 | 2020-06-01 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=77497) | A mod about respecting other people's property
 Sparkleste | Sparky | 2020-07-04 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38968) | A difficult level mod 
 Terra Australis | Meep | 2020-03-25 | [itch.io](https://meepmoop.itch.io/terraaustralis) | A scrolling mod where you play as a penguin
 Old Site | Amegpo | 2019-10-26 | [itch.io](https://amegpo.itch.io/old-site) | A celeste classic recreation of chapter 2 in Celeste 2018

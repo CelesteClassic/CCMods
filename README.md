@@ -30,7 +30,7 @@ Perisher | managore | 2016-09-20 | [itch.io](https://managore.itch.io/perisher) 
 Procgen | Meep | 2020-12-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40773) | A mod that generates beatable levels randomly
 Why? (Ruins) | Acedic | 2020-07-02 | [itch.io](https://www.lexaloffle.com/bbs/?tid=38345&tkey=RNcKOe8uAP5DRYuKdAX4) | A challenging mod with some new mechanics
 Scrolleste | Warspyking | 2021-02-05 | [itcho.io](https://www.lexaloffle.com/bbs/?tid=41751) | A scrolling mod with lava slowly rising. 037
-Selena | Baldjared | 2016 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=39035) | An older short mod
+Selena | Baldjared | 2016-12-13 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=39035) | An older short mod
 SNEK mod | taco360 | 2020-06-01 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=77497) | A mod about respecting other people's property
 Sparkleste | Sparky | 2020-07-04 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38968) | A difficult level mod 
 Terra Australis | Meep | 2020-03-25 | [itch.io](https://meepmoop.itch.io/terraaustralis) | A scrolling mod where you play as a penguin

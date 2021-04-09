@@ -8,8 +8,31 @@ Arielle | Justin | 2015-12-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid
 CALIGO | GunTurtle | 2020-01-11 | [Lexaloffle](https://lexaloffle.com/bbs/?tid=36493) | Short mod with new spin-bounce mechanic
 Caroline | Meep, Lord SNEK | 2021-04-01 | [itch.io](https://meepmoop.itch.io/caroline) | Third installment of roundelie adventure
 CELAWNE | Meep | 2020-05-27 | [Discord](https://discordapp.com/channels/495648733057253388/521127150829699072/715372716471091201) | Grass
+Celeste 1.5 | RubyRed | 2019-01-27 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33037) | Celeste classic but with some of the mechanics from Celeste 2015
+Celeste But More Harder | MrScottyPieey | 2018-03-31 | [itch.io](https://mrscottypieey.itch.io/celeste-more-harder) | Celeste classic but sometimes there's spikes because it's quirky like that
+Celeste Downhill | RevTheGame | 2019-01-26 | [itch.io](https://revthegame.itch.io/celeste-downhill) | Follow the path of least resistance
+Celeste GTGF | seckswrecks | 2016-05-07 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster
+Celeste X | Meep | 2019-04-18 | [itch.io](https://meepmoop.itch.io/celestex) | Celeste levels but with megaman gameplay
 Cliffside | RubyRed | 2020-08-09 | [itch.io](https://evergreengames.itch.io/cliffside) | Full map mod with remixed music
 Dark Celeste | KikooDX | 2020-11-08 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40297) | Short, aesthetic, but really hard mod
 Everred | taco360 | 2019-11-21 | [itch.io](https://taco360.itch.io/everred) | 3 areas, 3 routes
+Falleste | Sparky | 2020-11-23 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40312) | Hard mod with many new mechanics
+Farland | Kamera | 2020-12-16 | [itch.io](https://kamera.itch.io/farland) | large mod with scrolling levels
 Foreverred | taco360 | 2020-12-31 | [itch.io](https://taco360.itch.io/foreverred) | Gigantic remake of Everred, roughly 3x the size of vanilla
-Roundelie Adventure 2| Lord SNEK | 2021-04-01 | [lexaloffle](https://www.lexaloffle.com/bbs/?pid=89837#p)| Play as a roundelie and do round things. Has new levels, new music, new physics, and a whole new moveset. 
+Funklost | Celeste Community | 2019-11-15 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35915) | Funky mod with some new mechanics
+Helleste | RoundUpGaming | 2020-03-16 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=37087) | Short but difficult mod
+Ingeste | splendorr | 2019-04-09 | [itch.io](https://exult.itch.io/ingeste) | An easy mod where you play as kirby
+Jusebameya | Yeetboi | 2019-03-06 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise platforming
+Mutate | Meep | 20xx | [muteste](https://meep.cubing.net/html5/muteste.html) | Celeste but the tiles are slowly changing to other tiles
+Noeleste | taco360 | 2019-12-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=71010) | Holiday themed mod with some new mechanics
+Party Mountain | NethoWarrior | 2019-10-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35749) | Mostly levels from vanilla but modified
+Perisher | managore | 2016-09-20 | [itch.io](https://managore.itch.io/perisher) | A puzzle mod featuring movable blocks
+Procgen | Meep | 2020-12-17 | [Lexaloffle] (https://www.lexaloffle.com/bbs/?tid=40773) | A mod that generates beatable levels randomly
+Why? (Ruins) | Acedic | 2020-07-02 | [itch.io](https://www.lexaloffle.com/bbs/?tid=38345&tkey=RNcKOe8uAP5DRYuKdAX4) | A challenging mod with some new mechanics
+Scrolleste | Warspyking | 2021-02-05 | [itcho.io](https://www.lexaloffle.com/bbs/?tid=41751) | A scrolling mod with lava slowly rising. 037
+Selena | Baldjared | 2016 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=39035) | An older short mod
+SNEK mod | taco360 | 2020-06-01 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=77497) | A mod about respecting other people's property
+Sparkleste | Sparky | 2020-07-04 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38968) | A difficult level mod 
+Terra Australis | Meep | 2020-03-25 | [itch.io](https://meepmoop.itch.io/terraaustralis) | A scrolling mod where you play as a penguin
+Old Site | Amegpo | 2019-10-26 | [itch.io](https://amegpo.itch.io/old-site) | A celeste classic recreation of chapter 2 in Celeste 2015
+Roundelie Adventure 2| Lord SNEK | 2021-04-01 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=89837#p)| Play as a roundelie and do round things

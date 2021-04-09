@@ -23,7 +23,7 @@ Funklost | Celeste Community | 2019-11-15 | [Lexaloffle](https://www.lexaloffle.
 Helleste | RoundUpGaming | 2020-03-16 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=37087) | Short but difficult mod
 Ingeste | splendorr | 2019-04-09 | [itch.io](https://exult.itch.io/ingeste) | An easy mod where you play as kirby
 Jusebameya | Yeetboi | 2019-03-06 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise platforming
-Mutate | Meep | 20xx | [muteste](https://meep.cubing.net/html5/muteste.html) | Celeste but the tiles are slowly changing to other tiles
+Mutate | Justin | 2016-02-09 | [Here](https://meep.cubing.net/html5/muteste.html) | Celeste but the tiles are slowly changing to other tiles
 Noeleste | taco360 | 2019-12-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=71010) | Holiday themed mod with some new mechanics
 Party Mountain | NethoWarrior | 2019-10-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35749) | Mostly levels from vanilla but modified
 Perisher | managore | 2016-09-20 | [itch.io](https://managore.itch.io/perisher) | A puzzle mod featuring movable blocks

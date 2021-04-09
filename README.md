@@ -1,7 +1,7 @@
 # Celeste Classic Mods
 Community curated list of the game's mods.
 
-Name | Developer(s) | &nbsp;&nbsp;Release&nbsp;&nbsp; | Link | Summary
+Name | Developer(s) | &nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp; | Link | Summary
 --- | --- | --- | --- | ---
 Adelie | Meep |  2019-02-13 | [itch.io](https://meepmoop.itch.io/adelie) | Metroidvania mod
 Arielle | Justin | 2015-12-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=17422#p17421) | Short map mod

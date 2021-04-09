@@ -8,7 +8,7 @@ Arielle | Justin | 2015-12-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid
 CALIGO | GunTurtle | 2020-01-11 | [Lexaloffle](https://lexaloffle.com/bbs/?tid=36493) | Short mod with new spin-bounce mechanic
 Caroline | Meep, Lord SNEK | 2021-04-01 | [itch.io](https://meepmoop.itch.io/caroline) | Third installment of roundelie adventure
 CELAWNE | Meep | 2020-05-27 | [Discord](https://discordapp.com/channels/495648733057253388/521127150829699072/715372716471091201) | Grass
-Celeste 1.5 | RubyRed | 2019-01-27 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33037) | Celeste classic but with some of the mechanics from Celeste 2015
+Celeste 1.5 | RubyRed | 2019-01-27 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33037) | Celeste classic but with some of the mechanics from Celeste 2018
 Celeste But More Harder | MrScottyPieey | 2018-03-31 | [itch.io](https://mrscottypieey.itch.io/celeste-more-harder) | Celeste classic but sometimes there's spikes because it's quirky like that
 Celeste Downhill | RevTheGame | 2019-01-26 | [itch.io](https://revthegame.itch.io/celeste-downhill) | Follow the path of least resistance
 Celeste GTGF | seckswrecks | 2016-05-07 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster

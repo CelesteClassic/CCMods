@@ -29,7 +29,7 @@ Noeleste | taco360 | 2019-12-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?p
 Party Mountain | NethoWarrior | 2019-10-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35749) | Mostly levels from vanilla but modified
 Perisher | managore | 2016-09-20 | [itch.io](https://managore.itch.io/perisher) | A puzzle mod featuring movable blocks
 Procgen | Meep | 2020-12-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40773) | A mod that generates beatable levels randomly
-Real Funk || Acedic | 2021-02-14 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/829902974783848448/realfunkAcedic.p8) | A funky mod that introduces a skateboard mechanic
+Real Funk | Acedic | 2021-02-14 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/829902974783848448/realfunkAcedic.p8) | A funky mod that introduces a skateboard mechanic
 Why? (Ruins) | Acedic | 2020-07-02 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38345&tkey=RNcKOe8uAP5DRYuKdAX4) | A challenging mod with some new mechanics
 Scrolleste | Warspyking | 2021-02-05 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=41751) | A scrolling mod with lava slowly rising. 037
 Selena | Baldjared | 2016-12-13 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=39035) | An older short mod

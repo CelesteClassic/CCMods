@@ -10,11 +10,11 @@ Caroline | Meep, Lord Snek | 2021-04-01 | [itch.io](https://meepmoop.itch.io/car
 CELAWNE | Meep | 2020-05-27 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/715372716349325442/celawne.p8.png) | Grass
 Celeste 1.5 | RubyRed | 2019-01-27 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33037) | Celeste Classic but with some of the mechanics from Celeste 2018
 Celeste But More Harder | MrScottyPieey | 2018-03-31 | [itch.io](https://mrscottypieey.itch.io/celeste-more-harder) | Celeste Classic but sometimes there's extra spikes because it's quirky like that
-Celeste Downhill | RevTheGame | 2019-01-26 | [itch.io](https://revthegame.itch.io/celeste-downhill) | Follow the path of least resistance
 Celeste GTGF | seckswrecks | 2016-05-07 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster
 Celeste X | Meep | 2019-04-18 | [itch.io](https://meepmoop.itch.io/celestex) | Celeste Classic but you play as Mega Man X
 Cliffside | RubyRed | 2020-08-09 | [itch.io](https://evergreengames.itch.io/cliffside) | A full map mod with remixed music
 Dark Celeste | KikooDX | 2020-11-08 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40297) | A short, aesthetic, but really hard mod
+Descent | GamerGirlEvalynn | 2021-04-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=42044) | Celeste but you go down the moutain
 Everred | taco360 | 2019-11-21 | [itch.io](https://taco360.itch.io/everred) | A map mod with 3 areas and 3 routes
 Falleste | Sparky | 2020-11-23 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40312) | A hard mod with many new mechanics
 Farland | Kamera | 2020-12-16 | [itch.io](https://kamera.itch.io/farland) | A map mod with scrolling levels

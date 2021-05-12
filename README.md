@@ -23,7 +23,7 @@ Funklost | Celeste Community | 2019-11-15 | [Lexaloffle](https://www.lexaloffle.
 Helleste | RoundUpGaming | 2020-03-16 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=37087) | A short but difficult mod
 Ingeste | splendorr | 2019-04-09 | [itch.io](https://exult.itch.io/ingeste) | An easy mod where you play as kirby
 Jusebameya | Yeetboi | 2019-03-06 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise and technical platforming
-Maude | Lord Snek | 2021-02-14 | [Download](https://cdn.discordapp.com/attachments/530191838007787551/810662433786036274/maude.p8) | A very high effort shitpost
+Maude | Lord Snek | 2021-02-14 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=90977#p) | A very high effort shitpost
 Mutate | Justin | 2016-02-09 | [Download](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) | Celeste Classic but the tiles are slowly changing to other tiles
 Noeleste | taco360 | 2019-12-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=71010) | A short holiday-themed mod with some new mechanics
 Party Mountain | NethoWarrior | 2019-10-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35749) | Mostly levels from Celeste Classic but modified

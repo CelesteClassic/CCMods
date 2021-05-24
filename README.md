@@ -20,7 +20,7 @@ Falleste | Sparky | 2020-11-23 | [Lexaloffle](https://www.lexaloffle.com/bbs/?ti
 Farland | Kamera | 2020-12-16 | [itch.io](https://kamera.itch.io/farland) | A map mod with scrolling levels
 Foreverred | taco360 | 2020-12-31 | [itch.io](https://taco360.itch.io/foreverred) | Gigantic remake of Everred, roughly 3x the size of Celeste Classic
 Funklost | Celeste Community | 2019-11-15 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35915) | Funky community mod with some new mechanics
-Fuji | Beeb | 2021-5-21 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=42974) | Aesthetic map mod with different endings
+Fuji | Beeb | 2021-05-21 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=42974) | Aesthetic map mod with different endings
 Helleste | RoundUpGaming | 2020-03-16 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=37087) | A short but difficult mod
 Ingeste | splendorr | 2019-04-09 | [itch.io](https://exult.itch.io/ingeste) | An easy mod where you play as kirby
 Jusebameya | Yeetboi | 2019-03-06 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise and technical platforming

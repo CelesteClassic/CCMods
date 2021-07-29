@@ -38,3 +38,4 @@ Sparkleste | Sparky | 2020-07-04 | [Lexaloffle](https://www.lexaloffle.com/bbs/?
 Terra Australis | Meep | 2020-03-25 | [itch.io](https://meepmoop.itch.io/terraaustralis) | A scrolling mod where you play as a penguin
 Old Site | Amegpo | 2019-10-26 | [itch.io](https://amegpo.itch.io/old-site) | A Celeste Classic recreation of chapter 2 in Celeste 2018
 Roundelie Adventure 2| Lord Snek | 2021-04-01 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=89837#p)| Play as a roundelie and do round things
+Volcana| Meep + gonengazit + taco360 + RubyRed | 2021-07-23 | [itch.io](https://taco360.itch.io/volcana)| Descend into a volcano and hunt for an ancient treasure

@@ -9,6 +9,7 @@ CALIGO | GunTurtle | 2020-01-11 | [Lexaloffle](https://lexaloffle.com/bbs/?tid=3
 Caroline | Meep, Lord Snek | 2021-04-01 | [itch.io](https://meepmoop.itch.io/caroline) | The third installment of roundelie adventure
 CELAWNE | Meep | 2020-05-27 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/715372716349325442/celawne.p8.png) | Grass
 Celeste 1.5 | RubyRed | 2019-01-27 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33037) | Celeste Classic but with some of the mechanics from Celeste 2018
+Celeste Dark World | CreepinAtMyDoor | 2021-02-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=41389) | Celeste Classic with moderate and sensible difficulty tweaks
 Celeste Downhill | RevTheGame | 2019-01-26 | [itch.io](https://revthegame.itch.io/celeste-downhill) | Follow the path of least resistance
 Celeste GTGF | seckswrecks | 2016-05-07 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster
 Celeste X | Meep | 2019-04-18 | [itch.io](https://meepmoop.itch.io/celestex) | Celeste Classic but you play as Mega Man X

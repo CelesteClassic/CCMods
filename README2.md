@@ -10,3 +10,4 @@ Lani's Joyride | Calverin | 2021-05-10 | [Lexaloffle](https://www.lexaloffle.com
 Fingals | Kamera | 2021-05-25 | [Lexaloffle](https://www.lexaloffle.com/bbs/?uid=48988) | A map mod with new areas and themes
 Verticaleste 2 | Calverin | 2021-05-07 | [Itch.io](https://kamera.itch.io/fingals) | Changes Lani's grappling hook to work vertically
 Vingals | Calverin | 2021-05-27 | [Lexaloffle](https://www.lexaloffle.com/bbs/?uid=45129) | A mod of Fingals which changes Elaina's grappling hook to work vertically
+Beep Arcade | kcaze and David Hashe | 2021-10-15 | [Itch.io](https://kz.itch.io/beep-arcade) | A space themed mod with Celeste 1 mechanics and a hidden puzzle

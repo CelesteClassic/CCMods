@@ -6,6 +6,7 @@ Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nb
 Adelie | Meep |  2019-02-13 | [itch.io](https://meepmoop.itch.io/adelie) | A metroidvania mod
 Arielle | Justin | 2015-12-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=17422#p17421) | A short vanilla-difficulty map mod
 Awake | Sparky9d | 2021-09-02 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=96788#p) | A short map mod with new music, mechanics, and alternate routes
+Break the Targets | 2021-09-29 | [itch.io](https://meepmoop.itch.io/celeste-btt) | A time trial mod themed around breaking targets, featuring Lani
 CALIGO | GunTurtle | 2020-01-11 | [Lexaloffle](https://lexaloffle.com/bbs/?tid=36493) | A short mod with new spin-bounce mechanic
 Caroline | Meep, Lord SNEK | 2021-04-01 | [itch.io](https://meepmoop.itch.io/caroline) | The third installment of roundelie adventure
 CELAWNE | Meep | 2020-05-27 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/715372716349325442/celawne.p8.png) | Grass
@@ -29,6 +30,7 @@ Maude | Lord SNEK | 2021-02-14 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pi
 Mutate | Justin | 2016-02-09 | [Download](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) | Celeste Classic but the tiles are slowly changing to other tiles
 Noeleste | taco360 | 2019-12-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=71010) | A short holiday-themed mod with some new mechanics
 Party Mountain | NethoWarrior | 2019-10-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35749) | Mostly levels from Celeste Classic but modified
+Pauste | Acedic | 2021-12-31 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=45913&tkey=nWfw4wA2zvjJJuMmm7IT) | A hard Celeste mod where the pause feature is modified 
 Perisher | managore | 2016-09-20 | [itch.io](https://managore.itch.io/perisher) | A puzzle mod featuring pushable blocks
 Procgen | Meep | 2020-12-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40773) | A mod that generates beatable levels randomly
 Real Funk | Acedic | 2021-02-14 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/829902974783848448/realfunkAcedic.p8) | A funky mod that introduces a skateboard mechanic

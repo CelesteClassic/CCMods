@@ -14,6 +14,7 @@ Celeste 1.5 | RubyRed | 2019-01-27 | [Lexaloffle](https://www.lexaloffle.com/bbs
 Celeste Dark World | CreepinAtMyDoor | 2021-02-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=41389) | Celeste Classic with moderate and sensible difficulty tweaks
 Celeste Downhill | RevTheGame | 2019-01-26 | [itch.io](https://revthegame.itch.io/celeste-downhill) | Follow the path of least resistance
 Celeste GTGF | seckswrecks | 2016-05-07 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster
+Celeste Flip! | Calverin | 2021-07-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=celeste_flip) | Celeste but VVVVVV
 Celeste X | Meep | 2019-04-18 | [itch.io](https://meepmoop.itch.io/celestex) | Celeste Classic but you play as Mega Man X
 Cliffside | RubyRed | 2020-08-09 | [itch.io](https://evergreengames.itch.io/cliffside) | A full map mod with remixed music
 Dark Celeste | KikooDX | 2020-11-08 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40297) | A short, aesthetic, but really hard mod

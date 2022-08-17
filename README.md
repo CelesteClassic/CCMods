@@ -38,7 +38,7 @@ La Sal | pancelor | 2022-01-19 | [itch.io](https://pancelor.itch.io/la-sal) | A 
 Maude | Lord SNEK | 2021-02-14 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=90977#p) | A very high effort shitpost
 Mutate | Justin | 2016-02-09 | [Download](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) | Celeste Classic but the tiles are slowly changing to other tiles
 Noeleste | taco360 | 2019-12-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=71010) | A short holiday-themed mod with some new mechanics
-Oldleste | Noel | 2022-08-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48946) | Celeste but the protagonist aged and moves slow
+Oldeste | Noel | 2022-08-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48946) | Celeste but the protagonist aged and moves slow
 Party Mountain | NethoWarrior | 2019-10-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35749) | Mostly levels from Celeste Classic but modified
 Pauste | Acedic | 2021-12-31 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=45913&tkey=nWfw4wA2zvjJJuMmm7IT) | A hard Celeste mod where the pause feature is modified 
 Perisher | managore | 2016-09-20 | [itch.io](https://managore.itch.io/perisher) | A puzzle mod featuring pushable blocks

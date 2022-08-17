@@ -3,7 +3,7 @@ Community curated list of the game's mods.
 
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link | Summary
 --- | --- | --- | --- | ---
-Abandoned | CoolElectronics | | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47976) | A mod with new mechanics and unique level design
+Abandoned | CoolElectronics | 2022-06-25 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47976) | A mod with new mechanics and unique level design
 Adelie | Meep |  2019-02-13 | [itch.io](https://meepmoop.itch.io/adelie) | A metroidvania mod
 Arielle | Justin | 2015-12-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=17422#p17421) | A short vanilla-difficulty map mod
 Awake | Sparky9d | 2021-09-02 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=96788#p) | A short map mod with new music, mechanics, and alternate routes

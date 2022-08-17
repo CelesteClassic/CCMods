@@ -34,6 +34,7 @@ Hallow Neste | ooooggll | 2022-07-03 | [Lexaloffle](https://www.lexaloffle.com/b
 Helleste | RoundUpGaming | 2020-03-16 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=37087) | A short but difficult mod
 Ingeste | splendorr | 2019-04-09 | [itch.io](https://exult.itch.io/ingeste) | An easy mod where you play as kirby
 Jusebameya | Yeetboi | 2019-03-06 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise and technical platforming
+La Sal | pancelor | 2022-01-19 | [itch.io](https://pancelor.itch.io/la-sal) | A short puzzley map mod
 Maude | Lord SNEK | 2021-02-14 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=90977#p) | A very high effort shitpost
 Mutate | Justin | 2016-02-09 | [Download](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) | Celeste Classic but the tiles are slowly changing to other tiles
 Noeleste | taco360 | 2019-12-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=71010) | A short holiday-themed mod with some new mechanics
@@ -42,6 +43,8 @@ Party Mountain | NethoWarrior | 2019-10-24 | [Lexaloffle](https://www.lexaloffle
 Pauste | Acedic | 2021-12-31 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=45913&tkey=nWfw4wA2zvjJJuMmm7IT) | A hard Celeste mod where the pause feature is modified 
 Perisher | managore | 2016-09-20 | [itch.io](https://managore.itch.io/perisher) | A puzzle mod featuring pushable blocks
 Procgen | Meep | 2020-12-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40773) | A mod that generates beatable levels randomly
+Rainier | Sheeb | 2021-09-29 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=44808) | A short aesthetic map mod
+Rainier 2 | Sheeb | 2022-04-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47229) | Another short aesthetic map mod
 Real Funk | Acedic | 2021-02-14 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/829902974783848448/realfunkAcedic.p8) | A funky mod that introduces a skateboard mechanic
 Rosetta | Meep | 2022-06-30 | [itch.io](https://meepmoop.itch.io/rosetta) | A puzzley mod where you uncover the secrets of a pyramid
 Why? (Ruins) | Acedic | 2020-07-02 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38345&tkey=RNcKOe8uAP5DRYuKdAX4) | A challenging mod with a twist on grace jump mechanics

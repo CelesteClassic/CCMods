@@ -22,7 +22,9 @@ Dark Celeste | KikooDX | 2020-11-08 | [Lexaloffle](https://www.lexaloffle.com/bb
 Everred | taco360 | 2019-11-21 | [itch.io](https://taco360.itch.io/everred) | A map mod with 3 areas and 3 routes
 Falleste | Sparky9d | 2020-11-23 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40312) | A hard mod with many new mechanics
 Farland | Kamera | 2020-12-16 | [itch.io](https://kamera.itch.io/farland) | A map mod with scrolling levels
-Farland v2 | Kamera | 2022-4-10 | [itch.io](https://kamera.itch.io/farland-v2) | A sequel / remake of Farland featuring new themes, levels, and music
+Farland v2 | Kamera | 2022-04-10 | [itch.io](https://kamera.itch.io/farland-v2) | A sequel / remake of Farland featuring new themes, levels, and music
+Fault | SandwichBlamwich | 2022-05-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47841) | A vertically scrolling map mod
+Fault 2 | SandwichBlamwich | 2022-06-11 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48118) | A vertically scrolling downhill map mod
 Foreverred | taco360 | 2020-12-31 | [itch.io](https://taco360.itch.io/foreverred) | Gigantic remake of Everred, roughly 3x the size of Celeste Classic
 Funklost | Celeste Community | 2019-11-15 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35915) | Funky community mod with some new mechanics
 Fuji | Beeb | 2021-05-21 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=42974) | Aesthetic map mod with different endings

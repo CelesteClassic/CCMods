@@ -30,7 +30,7 @@ Foreverred | taco360 | 2020-12-31 | [itch.io](https://taco360.itch.io/foreverred
 Funklost | Celeste Community | 2019-11-15 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35915) | Funky community mod with some new mechanics
 Fuji | Beeb | 2021-05-21 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=42974) | Aesthetic map mod with different endings
 Getting Over It with Meep_Moop | Meep | 2022-02-14 | [itch.io](https://meepmoop.itch.io/goi-with-meep-moop) | A metroidvania-like mod where you get over it
-Hallow Neste | ooooggll | | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48396) | A short Celeste Classic x Hollow Knight mod
+Hallow Neste | ooooggll | 2022-07-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48396) | A short Celeste Classic x Hollow Knight mod
 Helleste | RoundUpGaming | 2020-03-16 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=37087) | A short but difficult mod
 Ingeste | splendorr | 2019-04-09 | [itch.io](https://exult.itch.io/ingeste) | An easy mod where you play as kirby
 Jusebameya | Yeetboi | 2019-03-06 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise and technical platforming

@@ -11,6 +11,7 @@ CALIGO | GunTurtle | 2020-01-11 | [Lexaloffle](https://lexaloffle.com/bbs/?tid=3
 Caroline | Meep, Lord SNEK | 2021-04-01 | [itch.io](https://meepmoop.itch.io/caroline) | The third installment of roundelie adventure
 CELAWNE | Meep | 2020-05-27 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/715372716349325442/celawne.p8.png) | Grass
 Celeste 1.5 | RubyRed | 2019-01-27 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33037) | Celeste Classic but with some of the mechanics from Celeste 2018
+Celeste - Break the Targets | Meep | 2021-09-29 | [itch.io](https://meepmoop.itch.io/celeste-btt) | A fangame where you quickly break targets with Madeline and Lani
 Celeste Dark World | CreepinAtMyDoor | 2021-02-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=41389) | Celeste Classic with moderate and sensible difficulty tweaks
 Celeste Downhill | RevTheGame | 2019-01-26 | [itch.io](https://revthegame.itch.io/celeste-downhill) | Follow the path of least resistance
 Celeste GTGF | seckswrecks | 2016-05-07 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster
@@ -25,6 +26,7 @@ Farland v2 | Kamera | 2022-4-10 | [itch.io](https://kamera.itch.io/farland-v2) |
 Foreverred | taco360 | 2020-12-31 | [itch.io](https://taco360.itch.io/foreverred) | Gigantic remake of Everred, roughly 3x the size of Celeste Classic
 Funklost | Celeste Community | 2019-11-15 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35915) | Funky community mod with some new mechanics
 Fuji | Beeb | 2021-05-21 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=42974) | Aesthetic map mod with different endings
+Getting Over It with Meep_Moop | Meep | 2022-02-14 | [itch.io](https://meepmoop.itch.io/goi-with-meep-moop) | A metroidvania-like mod where you get over it
 Helleste | RoundUpGaming | 2020-03-16 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=37087) | A short but difficult mod
 Ingeste | splendorr | 2019-04-09 | [itch.io](https://exult.itch.io/ingeste) | An easy mod where you play as kirby
 Jusebameya | Yeetboi | 2019-03-06 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise and technical platforming
@@ -36,6 +38,7 @@ Pauste | Acedic | 2021-12-31 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=
 Perisher | managore | 2016-09-20 | [itch.io](https://managore.itch.io/perisher) | A puzzle mod featuring pushable blocks
 Procgen | Meep | 2020-12-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40773) | A mod that generates beatable levels randomly
 Real Funk | Acedic | 2021-02-14 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/829902974783848448/realfunkAcedic.p8) | A funky mod that introduces a skateboard mechanic
+Rosetta | Meep | 2022-06-30 | [itch.io](https://meepmoop.itch.io/rosetta) | A puzzley mod where you uncover the secrets of a pyramid
 Why? (Ruins) | Acedic | 2020-07-02 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38345&tkey=RNcKOe8uAP5DRYuKdAX4) | A challenging mod with a twist on grace jump mechanics
 Scrolleste | Warspyking | 2021-02-05 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=41751) | A scrolling mod that stitched all of the Celeste Classic levels into one large level, with rising lava. 037
 Selena | Baldjared | 2016-12-13 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=39035) | An older short mod with technical platforming

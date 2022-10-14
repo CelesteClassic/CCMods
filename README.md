@@ -1,7 +1,7 @@
 # Celeste Classic Mods
 Community curated list of the game's mods.
 
-# Latest
+### Latest
 * 2022-08-17 - [Oldeste](https://www.lexaloffle.com/bbs/?tid=48946) by Noel
 * 2022-07-03 - [Hallow Neste](https://www.lexaloffle.com/bbs/?tid=48396) by ooooggll
 * 2022-06-30 - [Rosetta](https://meepmoop.itch.io/rosetta) by Meep

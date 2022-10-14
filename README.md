@@ -1,6 +1,13 @@
 # Celeste Classic Mods
 Community curated list of the game's mods.
 
+# Latest
+* 2022-08-17 - [Oldeste](https://www.lexaloffle.com/bbs/?tid=48946) by Noel
+* 2022-07-03 - [Hallow Neste](https://www.lexaloffle.com/bbs/?tid=48396) by ooooggll
+* 2022-06-30 - [Rosetta](https://meepmoop.itch.io/rosetta) by Meep
+* 2022-06-25 - [Abandoned](https://www.lexaloffle.com/bbs/?tid=47976) by CooolElectronics
+* 2022-06-11 - [Fault 2](https://www.lexaloffle.com/bbs/?tid=48118) by SandwichBlamwich
+
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link | Summary
 --- | --- | --- | --- | ---
 Abandoned | CoolElectronics | 2022-06-25 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47976) | A mod with new mechanics and unique level design

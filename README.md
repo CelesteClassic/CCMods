@@ -2,12 +2,11 @@
 Community curated list of the game's mods.
 
 ### Latest
+* 2022-10-15 - [Peril](https://www.lexaloffle.com/bbs/?tid=49803) by TheChowCow, Veitamura, Michael
 * 2022-08-17 - [Oldeste](https://www.lexaloffle.com/bbs/?tid=48946) by Noel
 * 2022-07-03 - [Hallow Neste](https://www.lexaloffle.com/bbs/?tid=48396) by ooooggll
 * 2022-06-30 - [Rosetta](https://meepmoop.itch.io/rosetta) by Meep
 * 2022-06-25 - [Abandoned](https://www.lexaloffle.com/bbs/?tid=47976) by CooolElectronics
-* 2022-06-11 - [Fault 2](https://www.lexaloffle.com/bbs/?tid=48118) by SandwichBlamwich
-
 
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link | Summary
 --- | --- | --- | --- | ---
@@ -49,6 +48,7 @@ Old Site | Amegpo | 2019-10-26 | [itch.io](https://amegpo.itch.io/old-site) | A 
 Oldeste | Noel | 2022-08-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48946) | Celeste but the protagonist aged and moves slow
 Party Mountain | NethoWarrior | 2019-10-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35749) | Mostly levels from Celeste Classic but modified
 Pauste | Acedic | 2021-12-31 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=45913&tkey=nWfw4wA2zvjJJuMmm7IT) | A hard Celeste mod where the pause feature is modified 
+Peril | TheChowCow, Veitamura, Michael | 2022-10-15 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=49803) | A map mod with great atmosphere through unique level design
 Perisher | managore | 2016-09-20 | [itch.io](https://managore.itch.io/perisher) | A puzzle mod featuring pushable blocks
 Procgen | Meep | 2020-12-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40773) | A mod that generates beatable levels randomly
 Rainier | Sheeb | 2021-09-29 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=44808) | A short aesthetic map mod

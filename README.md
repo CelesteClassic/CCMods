@@ -3,10 +3,10 @@ Community curated list of the game's mods.
 
 ### Latest
 * 2022-10-15 - [Peril](https://www.lexaloffle.com/bbs/?tid=49803) by TheChowCow, Veitamura, and Michael
+* 2022-09-12 - [Land!](https://www.lexaloffle.com/bbs/?tid=49313) by eYan
 * 2022-08-17 - [Oldeste](https://www.lexaloffle.com/bbs/?tid=48946) by Noel
 * 2022-07-03 - [Hallow Neste](https://www.lexaloffle.com/bbs/?tid=48396) by ooooggll
 * 2022-06-30 - [Rosetta](https://meepmoop.itch.io/rosetta) by Meep
-* 2022-06-25 - [Abandoned](https://www.lexaloffle.com/bbs/?tid=47976) by CooolElectronics
 
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link | Summary
 --- | --- | --- | --- | ---
@@ -41,6 +41,7 @@ Helleste | RoundUpGaming | 2020-03-16 | [Lexaloffle](https://www.lexaloffle.com/
 Ingeste | splendorr | 2019-04-09 | [itch.io](https://exult.itch.io/ingeste) | An easy mod where you play as kirby
 Jusebameya | Yeetboi | 2019-03-06 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise and technical platforming
 La Sal | pancelor | 2022-01-19 | [itch.io](https://pancelor.itch.io/la-sal) | A short puzzley map mod
+Land! | eYan | 2022-09-12 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=49313) | A short map mod
 Maude | Lord SNEK | 2021-02-14 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=90977#p) | A very high effort shitpost
 Mutate | Justin | 2016-02-09 | [Download](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) | Celeste Classic but the tiles are slowly changing to other tiles
 Noeleste | taco360 | 2019-12-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=71010) | A short holiday-themed mod with some new mechanics

@@ -25,7 +25,7 @@ Celeste GTGF | seckswrecks | 2016-05-07 | [Lexaloffle](https://www.lexaloffle.co
 Celeste Flip! | Calverin | 2021-07-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=celeste_flip) | Celeste but VVVVVV
 Celeste X | Meep | 2019-04-18 | [itch.io](https://meepmoop.itch.io/celestex) | Celeste Classic but you play as Mega Man X
 Cliffside | RubyRed | 2020-08-09 | [itch.io](https://evergreengames.itch.io/cliffside) | A full map mod with remixed music
-Dark Celeste | KikooDX | 2020-11-08 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40297) | A short, aesthetic, but really hard mod
+Dark Celeste | kdx | 2020-11-08 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40297) | A short, aesthetic, but really hard mod
 Everred | taco360 | 2019-11-21 | [itch.io](https://taco360.itch.io/everred) | A map mod with 3 areas and 3 routes
 Falleste | Sparky9d | 2020-11-23 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40312) | A hard mod with many new mechanics
 Farland | Kamera | 2020-12-16 | [itch.io](https://kamera.itch.io/farland) | A map mod with scrolling levels

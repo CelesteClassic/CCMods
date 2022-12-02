@@ -11,8 +11,10 @@ Community curated list of the game's mods.
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link | Summary
 --- | --- | --- | --- | ---
 Abandoned | CoolElectronics | 2022-06-25 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47976) | A mod with new mechanics and unique level design
+acid | kdx | 2022-11-14 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=50232) | Experimental and headache inducing
 Adelie | Meep |  2019-02-13 | [itch.io](https://meepmoop.itch.io/adelie) | A metroidvania mod
 Arielle | Justin | 2015-12-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=17422#p17421) | A short vanilla-difficulty map mod
+Autoste | kdx | 2022-02-20 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=46682) | Celeste Classic autorunner
 Awake | Sparky9d | 2021-09-02 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=96788#p) | A short map mod with new music, mechanics, and alternate routes
 CALIGO | GunTurtle | 2020-01-11 | [Lexaloffle](https://lexaloffle.com/bbs/?tid=36493) | A short mod with new spin-bounce mechanic
 Caroline | Meep, Lord SNEK | 2021-04-01 | [itch.io](https://meepmoop.itch.io/caroline) | The third installment of roundelie adventure
@@ -25,11 +27,12 @@ Celeste GTGF | seckswrecks | 2016-05-07 | [Lexaloffle](https://www.lexaloffle.co
 Celeste Flip! | Calverin | 2021-07-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=celeste_flip) | Celeste but VVVVVV
 Celeste X | Meep | 2019-04-18 | [itch.io](https://meepmoop.itch.io/celestex) | Celeste Classic but you play as Mega Man X
 Cliffside | RubyRed | 2020-08-09 | [itch.io](https://evergreengames.itch.io/cliffside) | A full map mod with remixed music
-Dark Celeste | KikooDX | 2020-11-08 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40297) | A short, aesthetic, but really hard mod
+Dark Celeste | kdx | 2020-11-08 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40297) | A short, aesthetic, but really hard mod
 Everred | taco360 | 2019-11-21 | [itch.io](https://taco360.itch.io/everred) | A map mod with 3 areas and 3 routes
 Falleste | Sparky9d | 2020-11-23 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40312) | A hard mod with many new mechanics
 Farland | Kamera | 2020-12-16 | [itch.io](https://kamera.itch.io/farland) | A map mod with scrolling levels
 Farland v2 | Kamera | 2022-04-10 | [itch.io](https://kamera.itch.io/farland-v2) | A sequel / remake of Farland featuring new themes, levels, and music
+Fasteste | kdx | 2022-11-02 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=50008) | Celeste Classic no pause
 Fault | SandwichBlamwich | 2022-05-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47841) | A vertically scrolling map mod
 Fault 2 | SandwichBlamwich | 2022-06-11 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48118) | A vertically scrolling downhill map mod
 Foreverred | taco360 | 2020-12-31 | [itch.io](https://taco360.itch.io/foreverred) | Gigantic remake of Everred, roughly 3x the size of Celeste Classic
@@ -39,12 +42,15 @@ Getting Over It with Meep_Moop | Meep | 2022-02-14 | [itch.io](https://meepmoop.
 Hallow Neste | ooooggll | 2022-07-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48396) | A short Celeste Classic x Hollow Knight mod
 Helleste | RoundUpGaming | 2020-03-16 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=37087) | A short but difficult mod
 Ingeste | splendorr | 2019-04-09 | [itch.io](https://exult.itch.io/ingeste) | An easy mod where you play as kirby
+JANK | kdx | 2020-12-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40654) | Welcome to a world of pain
 Jusebameya | Yeetboi | 2019-03-06 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise and technical platforming
 La Sal | pancelor | 2022-01-19 | [itch.io](https://pancelor.itch.io/la-sal) | A short puzzley map mod
 Land! | eYan | 2022-09-12 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=49313) | A short map mod
 Maude | Lord SNEK | 2021-02-14 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=90977#p) | A very high effort shitpost
 Mutate | Justin | 2016-02-09 | [Download](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) | Celeste Classic but the tiles are slowly changing to other tiles
 Noeleste | taco360 | 2019-12-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=71010) | A short holiday-themed mod with some new mechanics
+Nostalgia | kdx & Masséna | 2022-02-20 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=43061) | Nostalgia for a place
+nowhere | kdx & Masséna | 2022-06-22 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48269) | A place you've never been
 Old Site | Amegpo | 2019-10-26 | [itch.io](https://amegpo.itch.io/old-site) | A Celeste Classic recreation of chapter 2 in Celeste 2018
 Oldeste | Noel | 2022-08-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48946) | Celeste but the protagonist aged and moves slow
 Party Mountain | NethoWarrior | 2019-10-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35749) | Mostly levels from Celeste Classic but modified

@@ -11,7 +11,7 @@ Community curated list of the game's mods.
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link | Summary
 --- | --- | --- | --- | ---
 Abandoned | CoolElectronics | 2022-06-25 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47976) | A mod with new mechanics and unique level design
-acid | kdx | 2022-11-14 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=50232) | Experimental and headache inducing
+acid | kdx | 2022-11-14 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=50232) | Experimental and headache inducing (Epilepsy warning)
 Adelie | Meep |  2019-02-13 | [itch.io](https://meepmoop.itch.io/adelie) | A metroidvania mod
 Arielle | Justin | 2015-12-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=17422#p17421) | A short vanilla-difficulty map mod
 Autoste | kdx | 2022-02-20 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=46682) | Celeste Classic autorunner

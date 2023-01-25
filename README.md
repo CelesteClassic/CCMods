@@ -2,6 +2,7 @@
 Community curated list of the game's mods.
 
 ### Latest
+* 2023-01-25 - [Foraker](https://www.lexaloffle.com/bbs/?tid=51338) by Sheebeehs
 * 2022-10-15 - [Peril](https://www.lexaloffle.com/bbs/?tid=49803) by TheChowCow, Veitamura, and Michael
 * 2022-09-12 - [Land!](https://www.lexaloffle.com/bbs/?tid=49313) by eYan
 * 2022-08-17 - [Oldeste](https://www.lexaloffle.com/bbs/?tid=48946) by Noel
@@ -60,6 +61,7 @@ Perisher | managore | 2016-09-20 | [itch.io](https://managore.itch.io/perisher) 
 Procgen | Meep | 2020-12-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40773) | A mod that generates beatable levels randomly
 Rainier | Sheeb | 2021-09-29 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=44808) | A short aesthetic map mod
 Rainier 2 | Sheeb | 2022-04-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47229) | Another short aesthetic map mod
+Foraker | Sheeb | 2023-01-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51338) | Yet another short aesthetic map mod
 Real Funk | Acedic | 2021-02-14 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/829902974783848448/realfunkAcedic.p8) | A funky mod that introduces a skateboard mechanic
 Rosetta | Meep | 2022-06-30 | [itch.io](https://meepmoop.itch.io/rosetta) | A puzzley mod where you uncover the secrets of a pyramid
 Roundelie Adventure 2 | Lord SNEK | 2021-04-01 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=89837#p) | Play as a roundelie and do round things

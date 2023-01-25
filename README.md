@@ -36,6 +36,7 @@ Farland v2 | Kamera | 2022-04-10 | [itch.io](https://kamera.itch.io/farland-v2) 
 Fasteste | kdx | 2022-11-02 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=50008) | Celeste Classic no pause
 Fault | SandwichBlamwich | 2022-05-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47841) | A vertically scrolling map mod
 Fault 2 | SandwichBlamwich | 2022-06-11 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48118) | A vertically scrolling downhill map mod
+Foraker | Sheeb | 2023-01-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51338) | Yet another short aesthetic map mod
 Foreverred | taco360 | 2020-12-31 | [itch.io](https://taco360.itch.io/foreverred) | Gigantic remake of Everred, roughly 3x the size of Celeste Classic
 Funklost | Celeste Community | 2019-11-15 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=35915) | Funky community mod with some new mechanics
 Fuji | Beeb | 2021-05-21 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=42974) | Aesthetic map mod with different endings
@@ -61,7 +62,6 @@ Perisher | managore | 2016-09-20 | [itch.io](https://managore.itch.io/perisher) 
 Procgen | Meep | 2020-12-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40773) | A mod that generates beatable levels randomly
 Rainier | Sheeb | 2021-09-29 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=44808) | A short aesthetic map mod
 Rainier 2 | Sheeb | 2022-04-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47229) | Another short aesthetic map mod
-Foraker | Sheeb | 2023-01-24 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51338) | Yet another short aesthetic map mod
 Real Funk | Acedic | 2021-02-14 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/829902974783848448/realfunkAcedic.p8) | A funky mod that introduces a skateboard mechanic
 Rosetta | Meep | 2022-06-30 | [itch.io](https://meepmoop.itch.io/rosetta) | A puzzley mod where you uncover the secrets of a pyramid
 Roundelie Adventure 2 | Lord SNEK | 2021-04-01 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=89837#p) | Play as a roundelie and do round things

@@ -64,7 +64,7 @@ Perisher | managore | 2016-09-20 | [itch.io](https://managore.itch.io/perisher) 
 Procgen | Meep | 2020-12-17 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40773) | A mod that generates beatable levels randomly
 Rainier | Sheeb | 2021-09-29 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=44808) | A short aesthetic map mod
 Rainier 2 | Sheeb | 2022-04-03 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47229) | Another short aesthetic map mod
-Real Funk | Acedic | 2021-02-14 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/829902974783848448/realfunkAcedic.p8) | A funky mod that introduces a skateboard mechanic
+Real Funk | Acedic | 2021-02-14 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/946213197793361950/realfunk-1.01953125.p8.png) | A funky mod that introduces a skateboard mechanic
 Rosetta | Meep | 2022-06-30 | [itch.io](https://meepmoop.itch.io/rosetta) | A puzzley mod where you uncover the secrets of a pyramid
 Roundelie Adventure 2 | Lord SNEK | 2021-04-01 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=89837#p) | Play as a roundelie and do round things
 Scrolleste | Warspyking | 2021-02-05 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=41751) | A scrolling mod that stitched all of the Celeste Classic levels into one large level, with rising lava. 037

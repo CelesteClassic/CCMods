@@ -73,4 +73,4 @@ SNEK mod | Lord SNEK, taco360 | 2020-06-01 | #snekmod | [Lexaloffle](https://www
 Sparkleste | Sparky9d | 2020-07-04 | #sparkmod | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38968) | A difficult map mod
 Terra Australis | Meep | 2020-03-25 | #australis | [itch.io](https://meepmoop.itch.io/terraaustralis) | A scrolling mod where you play as a penguin
 Volcana | Meep, gonengazit, taco360, RubyRed | 2021-07-23 | #volcana | [itch.io](https://taco360.itch.io/volcana) | Descend into a volcano and hunt for an ancient treasure
-Why? (Ruins) | Acedic | 2020-07-02 | #bijuwotira | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38345&tkey=RNcKOe8uAP5DRYuKdAX4) | A challenging mod with a twist on grace jump mechanics
+Why are you stealing from Ruins? | Acedic | 2020-07-02 | #bijuwotira | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38345&tkey=RNcKOe8uAP5DRYuKdAX4) | A challenging mod with a twist on grace jump mechanics

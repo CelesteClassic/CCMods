@@ -2,7 +2,8 @@
 Community curated list of the game's mods.
 
 ### Latest
-* 2023-01-25 - [Foraker](https://www.lexaloffle.com/bbs/?tid=51338) by Sheebeehs
+* 2023-01-24 - [Foraker](https://www.lexaloffle.com/bbs/?tid=51338) by Sheebeehs
+* 2023-01-16 - [Celeste Collab](https://www.lexaloffle.com/bbs/?tid=51210) by ooooggll, CoolElectronics and Lord SNEK
 * 2022-10-15 - [Peril](https://www.lexaloffle.com/bbs/?tid=49803) by TheChowCow, Veitamura, and Michael
 * 2022-09-12 - [Land!](https://www.lexaloffle.com/bbs/?tid=49313) by eYan
 * 2022-08-17 - [Oldeste](https://www.lexaloffle.com/bbs/?tid=48946) by Noel

@@ -3,7 +3,7 @@ Community curated list of the game's mods.
 
 ### Latest
 * 2023-01-25 - [Foraker](https://www.lexaloffle.com/bbs/?tid=51338) by Sheebeehs
-* 2023-01-16 - [Celeste Collab](https://www.lexaloffle.com/bbs/?tid=51210) by ooooggll, CoolElectronics and Lord SNEK
+* 2023-01-16 - [Celeste Collab](https://www.lexaloffle.com/bbs/?tid=51210) by ooooggll, CoolElectronics and Lord SNEK 
 * 2022-10-15 - [Peril](https://www.lexaloffle.com/bbs/?tid=49803) by TheChowCow, Veitamura, and Michael
 * 2022-09-12 - [Land!](https://www.lexaloffle.com/bbs/?tid=49313) by eYan
 * 2022-08-17 - [Oldeste](https://www.lexaloffle.com/bbs/?tid=48946) by Noel
@@ -23,7 +23,6 @@ Caroline | Meep, Lord SNEK | 2021-04-01 | #caroline | [itch.io](https://meepmoop
 CELAWNE | Meep | 2020-05-27 | N/A | [Download](https://cdn.discordapp.com/attachments/521127150829699072/715372716349325442/celawne.p8.png) | Grass
 Celeste 1.5 | RubyRed | 2019-01-27 | #celeste_1_5 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33037) | Celeste Classic but with some of the mechanics from Celeste 2018
 Celeste - Break the Targets | Meep, gonengazit, taco360, RubyRed, Lord SNEK, Beeb, cominixo | 2021-09-29 | #ccbtt | [itch.io](https://meepmoop.itch.io/celeste-btt) | A fangame where you quickly break targets with Madeline and Lani
-Celeste Collab | ooooggll, CoolElectronics, Lord SNEK | 2023-01-16 | #celeste_classic_collab | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51210) | A multicart collab featuring 3 mini mods with new mechnics: Noir, Storm, and Roundelie Adventure 8
 Celeste Dark World | CreepinAtMyDoor | 2021-02-03 | #celestedarkworld | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=41389) | Celeste Classic with moderate and sensible difficulty tweaks
 Celeste Downhill | RevTheGame | 2019-01-26 | N/A | [itch.io](https://revthegame.itch.io/celeste-downhill) | Follow the path of least resistance
 Celeste GTGF | seckswrecks | 2016-05-07 | #20279 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster
@@ -53,6 +52,7 @@ Land! | eYan | 2022-09-12 | #land | [Lexaloffle](https://www.lexaloffle.com/bbs/
 Maude | Lord SNEK | 2021-02-14 | #helpdelie | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=90977#p) | A very high effort shitpost
 Mutate | Justin | 2016-02-09 | N/A | [Download](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) | Celeste Classic but the tiles are slowly changing to other tiles
 Noeleste | taco360 | 2019-12-24 | #noeleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=71010) | A short holiday-themed mod with some new mechanics
+Noir | ooooggll & ummmm_ok | 2023-01-16 | #celeste_classic_collab | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the Celeste classic collab with a new gravity flipping mcehanic
 Nostalgia | kdx & Masséna | 2022-02-20 | #nostalgia | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=43061) | Nostalgia for a place
 nowhere | kdx & Masséna | 2022-06-22 | #nowhere | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48269) | A place you've never been
 Old Site | Amegpo | 2019-10-26 | #oldsite | [itch.io](https://amegpo.itch.io/old-site) | A Celeste Classic recreation of chapter 2 in Celeste 2018
@@ -67,10 +67,12 @@ Rainier 2 | Sheeb | 2022-04-03 | #rainier2_final | [Lexaloffle](https://www.lexa
 Real Funk | Acedic | 2021-02-14 | N/A | [Download](https://cdn.discordapp.com/attachments/521127150829699072/946213197793361950/realfunk-1.01953125.p8.png) | A funky mod that introduces a skateboard mechanic
 Rosetta | Meep | 2022-06-30 | N/A | [itch.io](https://meepmoop.itch.io/rosetta) | A puzzley mod where you uncover the secrets of a pyramid
 Roundelie Adventure 2 | Lord SNEK | 2021-04-01 | #roundelieadventure2 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=89837#p) | Play as a roundelie and do round things
+Roundelie Adventure 8 | Lord SNEK | 2023-01-16 | #celeste_classic_collab | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with a limited moveset and puzzles
 Scrolleste | Warspyking | 2021-02-05 | #scrolleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=41751) | A scrolling mod that stitched all of the Celeste Classic levels into one large level, with rising lava. 037
 Selena | Baldjared | 2016-12-13 | #selena_2 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=39035) | An older short mod with technical platforming
 SNEK mod | Lord SNEK, taco360 | 2020-06-01 | #snekmod | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=77497) | A mod about respecting other people's property
 Sparkleste | Sparky9d | 2020-07-04 | #sparkmod | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38968) | A difficult map mod
+Storm | CoolElectronics | 2023-01-16 | #celeste_classic_collab | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with new mechanics
 Terra Australis | Meep | 2020-03-25 | #australis | [itch.io](https://meepmoop.itch.io/terraaustralis) | A scrolling mod where you play as a penguin
 Volcana | Meep, gonengazit, taco360, RubyRed | 2021-07-23 | #volcana | [itch.io](https://taco360.itch.io/volcana) | Descend into a volcano and hunt for an ancient treasure
 Why are you stealing from Ruins? | Acedic | 2020-07-02 | #bijuwotira | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38345&tkey=RNcKOe8uAP5DRYuKdAX4) | A challenging mod with a twist on grace jump mechanics

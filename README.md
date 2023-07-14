@@ -2,13 +2,11 @@
 Community curated list of the game's mods.
 
 ### Latest
+* 2023-07-13 - [Celeste Tech Training](https://www.lexaloffle.com/bbs/?tid=53386) by Raptite
 * 2023-01-25 - [Foraker](https://www.lexaloffle.com/bbs/?tid=51338) by Sheebeehs
 * 2023-01-16 - [Celeste Collab](https://www.lexaloffle.com/bbs/?tid=51210) by ooooggll, CoolElectronics and Lord SNEK 
 * 2022-10-15 - [Peril](https://www.lexaloffle.com/bbs/?tid=49803) by TheChowCow, Veitamura, and Michael
 * 2022-09-12 - [Land!](https://www.lexaloffle.com/bbs/?tid=49313) by eYan
-* 2022-08-17 - [Oldeste](https://www.lexaloffle.com/bbs/?tid=48946) by Noel
-* 2022-07-03 - [Hallow Neste](https://www.lexaloffle.com/bbs/?tid=48396) by ooooggll
-* 2022-06-30 - [Rosetta](https://meepmoop.itch.io/rosetta) by Meep
 
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ID | Link | Summary
 --- | --- | --- | --- | --- | ---
@@ -27,6 +25,7 @@ Celeste Dark World | CreepinAtMyDoor | 2021-02-03 | #celestedarkworld | [Lexalof
 Celeste Downhill | RevTheGame | 2019-01-26 | N/A | [itch.io](https://revthegame.itch.io/celeste-downhill) | Follow the path of least resistance
 Celeste GTGF | seckswrecks | 2016-05-07 | #20279 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster
 Celeste Flip! | Calverin | 2021-07-24 | #celeste_flip | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=celeste_flip) | Celeste but VVVVVV
+Celeste Tech Training | Raptite | 2023 -07-13 | #celestetechtrain3-0 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=53386) | Gym for learning basic celeste tech, with a hard challenge at the end
 Celeste X | Meep | 2019-04-18 | #celestex | [itch.io](https://meepmoop.itch.io/celestex) | Celeste Classic but you play as Mega Man X
 Cliffside | RubyRed | 2020-08-09 | #cliffside | [itch.io](https://evergreengames.itch.io/cliffside) | A full map mod with remixed music
 Dark Celeste | kdx | 2020-11-08 | #darkceleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40297) | A short, aesthetic, but really hard mod

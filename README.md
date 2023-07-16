@@ -3,6 +3,7 @@ Community curated list of the game's mods.
 
 ### Latest
 * 2023-07-13 - [Celeste Tech Training](https://www.lexaloffle.com/bbs/?tid=53386) by Raptite
+* 2023-05-31 - [Cafe](https://www.lexaloffle.com/bbs/?tid=52930) by GunTurtle
 * 2023-01-25 - [Foraker](https://www.lexaloffle.com/bbs/?tid=51338) by Sheebeehs
 * 2023-01-16 - [Celeste Collab](https://www.lexaloffle.com/bbs/?tid=51210) by ooooggll, CoolElectronics and Lord SNEK 
 * 2022-10-15 - [Peril](https://www.lexaloffle.com/bbs/?tid=49803) by TheChowCow, Veitamura, and Michael
@@ -16,6 +17,7 @@ Adelie | Meep |  2019-02-13 | #adelie | [itch.io](https://meepmoop.itch.io/adeli
 Arielle | Justin | 2015-12-03 | #17421 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=17422#p17421) | A short vanilla-difficulty map mod
 Autoste | kdx | 2022-02-20 | #auteste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=46682) | Celeste Classic autorunner
 Awake | Sparky9d | 2021-09-02 | #awake_final | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=96788#p) | A short map mod with new music, mechanics, and alternate routes
+Cafe | GunTurtle | 2023-05-31 | #gunturtle_cafe-0 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=52930) | A very challenging mod with new dash mechanics and coffee bean items
 CALIGO | GunTurtle | 2020-01-11 | #caligo1 | [Lexaloffle](https://lexaloffle.com/bbs/?tid=36493) | A short mod with new spin-bounce mechanic
 Caroline | Meep, Lord SNEK | 2021-04-01 | #caroline | [itch.io](https://meepmoop.itch.io/caroline) | The third installment of roundelie adventure
 CELAWNE | Meep | 2020-05-27 | N/A | [Download](https://cdn.discordapp.com/attachments/521127150829699072/715372716349325442/celawne.p8.png) | Grass

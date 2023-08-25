@@ -52,7 +52,7 @@ La Sal | pancelor | 2022-01-19 | #lasal | [itch.io](https://pancelor.itch.io/la-
 Land! | eYan | 2022-09-12 | #land | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=49313) | A short map mod
 Maude | Lord SNEK | 2021-02-14 | #helpdelie | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=90977#p) | A very high effort shitpost
 Mutate | Justin | 2016-02-09 | N/A | [Download](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) | Celeste Classic but the tiles are slowly changing to other tiles
-Noeleste | taco360 | 2019-12-24 | #noeleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=71010) | A short holiday-themed mod with some new mechanics
+Noelle | taco360 | 2019-12-24 | #noeleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=71010) | A short holiday-themed mod with some new mechanics
 Noir | ooooggll & ummmm_ok | 2023-01-16 | #celeste_classic_collab | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the Celeste classic collab with a new gravity flipping mcehanic
 Nostalgia | kdx & Masséna | 2022-02-20 | #nostalgia | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=43061) | Nostalgia for a place
 nowhere | kdx & Masséna | 2022-06-22 | #nowhere | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48269) | A place you've never been

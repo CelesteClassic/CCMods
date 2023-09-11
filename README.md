@@ -2,6 +2,7 @@
 Community curated list of the game's mods.
 
 ### Latest
+* 2023-08-25 - [labeste](https://www.lexaloffle.com/bbs/?pid=134164#p) by cheesemug
 * 2023-07-13 - [Celeste Tech Training](https://www.lexaloffle.com/bbs/?tid=53386) by Raptite
 * 2023-05-31 - [Cafe](https://www.lexaloffle.com/bbs/?tid=52930) by GunTurtle
 * 2023-01-25 - [Foraker](https://www.lexaloffle.com/bbs/?tid=51338) by Sheebeehs
@@ -49,6 +50,7 @@ Ingeste | splendorr | 2019-04-09 | #ingeste | [itch.io](https://exult.itch.io/in
 JANK | kdx | 2020-12-03 | #jank | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40654) | Welcome to a world of pain
 Jusebameya | Yeetboi | 2019-03-06 | #jusebameya | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise and technical platforming
 La Sal | pancelor | 2022-01-19 | #lasal | [itch.io](https://pancelor.itch.io/la-sal) | A short puzzley map mod
+labeste | cheesemug | 2023-08-25 | #labeste-0 | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=53867) | A laboratory-themed mod that teaches tech
 Land! | eYan | 2022-09-12 | #land | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=49313) | A short map mod
 Maude | Lord SNEK | 2021-02-14 | #helpdelie | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=90977#p) | A very high effort shitpost
 Mutate | Justin | 2016-02-09 | N/A | [Download](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) | Celeste Classic but the tiles are slowly changing to other tiles

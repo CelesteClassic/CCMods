@@ -13,7 +13,6 @@ Community curated list of the game's mods.
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ID | Link | Summary
 --- | --- | --- | --- | --- | ---
 Abandoned | CoolElectronics | 2022-06-25 | #buweyajazi | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47976) | A mod with new mechanics and unique level design
-acid | kdx | 2022-11-14 | #acid | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=50232) | Experimental and headache inducing (Epilepsy warning)
 Adelie | Meep |  2019-02-13 | #adelie | [itch.io](https://meepmoop.itch.io/adelie) | A metroidvania mod
 Arielle | Justin | 2015-12-03 | #17421 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=17422#p17421) | A short vanilla-difficulty map mod
 Autoste | kdx | 2022-02-20 | #auteste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=46682) | Celeste Classic autorunner
@@ -26,6 +25,7 @@ Celeste 1.5 | RubyRed | 2019-01-27 | #celeste_1_5 | [Lexaloffle](https://www.lex
 Celeste - Break the Targets | Meep, gonengazit, taco360, RubyRed, Lord SNEK, Beeb, cominixo | 2021-09-29 | #ccbtt | [itch.io](https://meepmoop.itch.io/celeste-btt) | A fangame where you quickly break targets with Madeline and Lani
 Celeste Dark World | CreepinAtMyDoor | 2021-02-03 | #celestedarkworld | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=41389) | Celeste Classic with moderate and sensible difficulty tweaks
 Celeste Downhill | RevTheGame | 2019-01-26 | N/A | [itch.io](https://revthegame.itch.io/celeste-downhill) | Follow the path of least resistance
+Celeste Factory | Wuff | 2022-06-29 | N/A | [itch.io](https://wuffmakesgames.itch.io/celeste-factory) | A wip newleste rendition with one chapter complete
 Celeste GTGF | seckswrecks | 2016-05-07 | #20279 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster
 Celeste Flip! | Calverin | 2021-07-24 | #celeste_flip | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=celeste_flip) | Celeste but VVVVVV
 Celeste Tech Training | Raptite | 2023 -07-13 | #celestetechtrain3 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=53386) | Gym for learning basic celeste tech, with a hard challenge at the end
@@ -36,7 +36,6 @@ Everred | taco360 | 2019-11-21 | #everred | [itch.io](https://taco360.itch.io/ev
 Falleste | Sparky9d | 2020-11-23 | #falleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40312) | A hard mod with many new mechanics
 Farland | Kamera | 2020-12-16 | #farland | [itch.io](https://kamera.itch.io/farland) | A map mod with scrolling levels
 Farland v2 | Kamera | 2022-04-10 | #farlandv2 | [itch.io](https://kamera.itch.io/farland-v2) | A sequel / remake of Farland featuring new themes, levels, and music
-Fasteste | kdx | 2022-11-02 | #fasteste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=50008) | Celeste Classic no pause
 Fault | SandwichBlamwich | 2022-05-17 | #madelinefault | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47841) | A vertically scrolling map mod
 Fault 2 | SandwichBlamwich | 2022-06-11 | #fault2 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48118) | A vertically scrolling downhill map mod
 Foraker | Sheeb | 2023-01-24 | #foraker | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51338) | Yet another short aesthetic map mod

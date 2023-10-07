@@ -28,7 +28,7 @@ Celeste Downhill | RevTheGame | 2019-01-26 | N/A | [itch.io](https://revthegame.
 Celeste Factory | Wuff | 2022-06-29 | N/A | [itch.io](https://wuffmakesgames.itch.io/celeste-factory) | A wip newleste rendition with one chapter complete
 Celeste GTGF | seckswrecks | 2016-05-07 | #20279 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster
 Celeste Flip! | Calverin | 2021-07-24 | #celeste_flip | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=celeste_flip) | Celeste but VVVVVV
-Celeste Tech Training | Raptite | 2023 -07-13 | #celestetechtrain3 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=53386) | Gym for learning basic celeste tech, with a hard challenge at the end
+Celeste Tech Training | Raptite | 2023-07-13 | #celestetechtrain3 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=53386) | Gym for learning basic celeste tech, with a hard challenge at the end
 Celeste X | Meep | 2019-04-18 | #celestex | [itch.io](https://meepmoop.itch.io/celestex) | Celeste Classic but you play as Mega Man X
 Cliffside | RubyRed | 2020-08-09 | #cliffside | [itch.io](https://evergreengames.itch.io/cliffside) | A full map mod with remixed music
 Dark Celeste | kdx | 2020-11-08 | #darkceleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40297) | A short, aesthetic, but really hard mod
@@ -49,7 +49,7 @@ Ingeste | splendorr | 2019-04-09 | #ingeste | [itch.io](https://exult.itch.io/in
 JANK | kdx | 2020-12-03 | #jank | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40654) | Welcome to a world of pain
 Jusebameya | Yeetboi | 2019-03-06 | #jusebameya | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise and technical platforming
 La Sal | pancelor | 2022-01-19 | #lasal | [itch.io](https://pancelor.itch.io/la-sal) | A short puzzley map mod
-labeste | cheesemug | 2023-08-25 | #labeste-0 | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=53867) | A laboratory-themed mod that teaches tech
+labeste | cheesemug | 2023-08-25 | #labeste | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=53867) | A laboratory-themed mod that teaches tech
 Land! | eYan | 2022-09-12 | #land | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=49313) | A short map mod
 Maude | Lord SNEK | 2021-02-14 | #helpdelie | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=90977#p) | A very high effort shitpost
 Mutate | Justin | 2016-02-09 | N/A | [Download](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) | Celeste Classic but the tiles are slowly changing to other tiles

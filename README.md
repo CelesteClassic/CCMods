@@ -51,7 +51,7 @@ Jusebameya | Yeetboi | 2019-03-06 | #jusebameya | [Lexaloffle](https://www.lexal
 La Sal | pancelor | 2022-01-19 | #lasal | [itch.io](https://pancelor.itch.io/la-sal) | A short puzzley map mod
 labeste | cheesemug | 2023-08-25 | #labeste | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=53867) | A laboratory-themed mod that teaches tech
 Land! | eYan | 2022-09-12 | #land | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=49313) | A short map mod
-Maude | Lord SNEK | 2021-02-14 | #helpdelie | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=90977#p) | A very high effort shitpost
+Maude | Lord SNEK | 2021-02-14 | #helpdelie | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=90977#p) | A high effort shitpost
 Mutate | Justin | 2016-02-09 | N/A | [Download](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) | Celeste Classic but the tiles are slowly changing to other tiles
 Noelle | taco360 | 2019-12-24 | #noeleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=71010) | A short holiday-themed mod with some new mechanics
 Noir | ooooggll & ummmm_ok | 2023-01-16 | #celeste_classic_collab | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the Celeste classic collab with a new gravity flipping mcehanic
@@ -68,7 +68,6 @@ Rainier | Sheeb | 2021-09-29 | #rainier | [Lexaloffle](https://www.lexaloffle.co
 Rainier 2 | Sheeb | 2022-04-03 | #rainier2_final | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47229) | Another short aesthetic map mod
 Real Funk | Acedic | 2021-02-14 | N/A | [Download](https://cdn.discordapp.com/attachments/521127150829699072/946213197793361950/realfunk-1.01953125.p8.png) | A funky mod that introduces a skateboard mechanic
 Rosetta | Meep | 2022-06-30 | N/A | [itch.io](https://meepmoop.itch.io/rosetta) | A puzzley mod where you uncover the secrets of a pyramid
-Roundelie Adventure 2 | Lord SNEK | 2021-04-01 | #roundelieadventure2 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=89837#p) | Play as a roundelie and do round things
 Roundelie Adventure 8 | Lord SNEK | 2023-01-16 | #celeste_classic_collab | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with a limited moveset and puzzles
 Scrolleste | Warspyking | 2021-02-05 | #scrolleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=41751) | A scrolling mod that stitched all of the Celeste Classic levels into one large level, with rising lava. 037
 Selena | Baldjared | 2016-12-13 | #selena_2 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=39035) | An older short mod with technical platforming

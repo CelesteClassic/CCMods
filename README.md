@@ -47,6 +47,7 @@ Hallow Neste | ooooggll | 2022-07-03 | #hallowneste | [Lexaloffle](https://www.l
 Helleste | RoundUpGaming | 2020-03-16 | #helleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=37087) | A short but difficult mod
 Ingeste | splendorr | 2019-04-09 | #ingeste | [itch.io](https://exult.itch.io/ingeste) | An easy mod where you play as kirby
 JANK | kdx | 2020-12-03 | #jank | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40654) | Welcome to a world of pain
+Kaizoleste | Antibrain | 2023-05-24 | #kaizoleste | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=52846) | A very hard mod focused on speedrun tricks (mostly spike clips/jumps) and kaizo similar levels
 Jusebameya | Yeetboi | 2019-03-06 | #jusebameya | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise and technical platforming
 La Sal | pancelor | 2022-01-19 | #lasal | [itch.io](https://pancelor.itch.io/la-sal) | A short puzzley map mod
 labeste | cheesemug | 2023-08-25 | #labeste | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=53867) | A laboratory-themed mod that teaches tech

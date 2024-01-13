@@ -18,7 +18,7 @@ Actuate | Sparky9d | 2023-12-19 | N/A | [github](https://evergreengames.github.i
 Adelie | Meep |  2019-02-13 | #adelie | [itch.io](https://meepmoop.itch.io/adelie) | A metroidvania mod
 Adelie Golf | Calverin | 2023-12-15 | N/A | [github](https://evergreengames.github.io/cchristmas/day3/adelie_golf.html) | Celeste mountain if it were an extreme golf course
 Arielle | Justin | 2015-12-03 | #17421 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=17422#p17421) | A short vanilla-difficulty map mod
-Athos | Sparky9d | 2023-12-13 | #athosmod-0 | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=138658#p) | An exploration based mod with many available paths
+Athos | Sparky9d | 2023-12-13 | #athosmod | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=138658#p) | An exploration based mod with many available paths
 Autoste | kdx | 2022-02-20 | #auteste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=46682) | Celeste Classic autorunner
 Awake | Sparky9d | 2021-09-02 | #awake_final | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=96788#p) | A short map mod with new music, mechanics, and alternate routes
 Blanc | Sheeb | 2023-12-19 | N/A | [github](https://evergreengames.github.io/cchristmas/day7/blanc.html) | A short map mod that requires some light speed tech
@@ -76,7 +76,7 @@ Procgen | Meep | 2020-12-17 | #pgleste, #endleste | [Lexaloffle](https://www.lex
 Rainier | Sheeb | 2021-09-29 | #rainier | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=44808) | A short aesthetic map mod
 Rainier 2 | Sheeb | 2022-04-03 | #rainier2_final | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47229) | Another short aesthetic map mod
 Real Funk | Acedic | 2021-02-14 | N/A | [Download](https://cdn.discordapp.com/attachments/521127150829699072/946213197793361950/realfunk-1.01953125.p8.png) | A funky mod that introduces a skateboard mechanic
-Rift | ooooggll | 2023-12-16 | #rift-1 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55352) | A puzzle mod centered around time travel
+Rift | ooooggll | 2023-12-16 | #rift | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55352) | A puzzle mod centered around time travel
 Rosetta | Meep | 2022-06-30 | N/A | [itch.io](https://meepmoop.itch.io/rosetta) | A puzzley mod where you uncover the secrets of a pyramid
 Roundelie Adventure 8 | Lord SNEK | 2023-01-16 | #celeste_classic_collab | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with a limited moveset and puzzles
 Scrolleste | Warspyking | 2021-02-05 | #scrolleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=41751) | A scrolling mod that stitched all of the Celeste Classic levels into one large level, with rising lava. 037
@@ -91,6 +91,6 @@ Sugar Rush | Meep, taco360, RubyRed, gonengazit | 2023-12-23 | N/A | [github](ht
 Switch | Dehoisted | 2023-12-17 | N/A | [github](https://evergreengames.github.io/cchristmas/day5/switch.html) | A short level/puzzle mod themed around retractable spikes
 Terra Australis | Meep | 2020-03-25 | #australis | [itch.io](https://meepmoop.itch.io/terraaustralis) | A scrolling mod where you play as a penguin
 True North | Meep | 2023-12-23 | N/A | [github](https://evergreengames.github.io/cchristmas/day11/truenorth.html) | Explore an arctic climate and collect all the hats
-Ultimate Selfie | Wuff & smellyfishtiks | 2023-12-22 | #ultimate_selfie-2 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55439) | Join Theo as he explores an underground world in pursuit of the Ultimate Selfie
+Ultimate Selfie | Wuff & smellyfishtiks | 2023-12-22 | #ultimate_selfie | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55439) | Join Theo as he explores an underground world in pursuit of the Ultimate Selfie
 Volcana | Meep, gonengazit, taco360, RubyRed | 2021-07-23 | #volcana | [itch.io](https://taco360.itch.io/volcana) | Descend into a volcano and hunt for an ancient treasure
 Why are you stealing from Ruins? | Acedic | 2020-07-02 | #bijuwotira | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=38345&tkey=RNcKOe8uAP5DRYuKdAX4) | A challenging mod with a twist on grace jump mechanics

@@ -13,9 +13,9 @@ Community curated list of the game's mods.
 
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ID | Link | Summary
 --- | --- | --- | --- | --- | ---
-Site.p8 | Celeste Community | 2023-12-24 | N/A | [Download](https://cdn.discordapp.com/attachments/530191838007787551/1190679105868410930/site.p8?ex=65abe7d4&is=659972d4&hm=57cb877ca1623ee3bba9c0273ed298c59a304b07e37f3f5b9e7039cf26025893&) | The first completed chapter of newleste.p8, a community project to demake celeste (2018) in pico 8
-Sugar Rush | Meep, taco360, RubyRed, gonengazit | 2023-12-23 | N/A | [github](https://evergreengames.github.io/cchristmas/day11bonus/sugarrush.html) | A Wreck-It Ralph themed mod with magical candy pieces
-True North | Meep | 2023-12-23 | N/A | [github](https://evergreengames.github.io/cchristmas/day11/truenorth.html) | Explore an arctic climate and collect all the hats
+Site.p8 | Celeste Community | 2023-12-24 | N/A | [Download](https://cdn.discordapp.com/attachments/530191838007787551/1190679105868410930/site.p8?ex=65abe7d4&is=659972d4&hm=57cb877ca1623ee3bba9c0273ed298c59a304b07e37f3f5b9e7039cf26025893&) | The first completed chapter of newleste.p8, a community project to de-make Celeste (2018) in PICO-8
+Sugar Rush | Meep, taco360, RubyRed, gonengazit | 2023-12-23 | #sugarrush | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=140110) | A Wreck-It Ralph themed mod with magical candy pieces
+True North | Meep | 2023-12-23 | #truenorth | [itch.io](https://meepmoop.itch.io/true-north) | Explore an arctic climate and collect all the hats
 Ultimate Selfie | Wuff & smellyfishtiks | 2023-12-22 | #ultimate_selfie | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55439) | Join Theo as he explores an underground world in pursuit of the Ultimate Selfie
 Solanum | Cominixo | 2023-12-21 | N/A | [github](https://evergreengames.github.io/cchristmas/day9/solanum.html) | A christmas themed mountain with some new mechanics
 Hollow Celeste | Lord SNEK & Sparky9d | 2023-12-20 | #hollowceleste-1 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55480) | A mod that takes place in the world of hollow knight with a nail-themed moveset
@@ -40,7 +40,7 @@ Peril | TheChowCow, Veitamura, Michael | 2022-10-15 | #peril | [Lexaloffle](http
 Land! | eYan | 2022-09-12 | #land | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=49313) | A short map mod
 Oldeste | Noel | 2022-08-17 | #oldeste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48946) | Celeste but the protagonist aged and moves slow
 Hallow Neste | ooooggll | 2022-07-03 | #hallowneste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48396) | A short Celeste Classic x Hollow Knight mod
-Rosetta | Meep | 2022-06-30 | N/A | [itch.io](https://meepmoop.itch.io/rosetta) | A puzzley mod where you uncover the secrets of a pyramid
+Rosetta | Meep | 2022-06-30 | #rosetta | [itch.io](https://meepmoop.itch.io/rosetta) | A puzzley mod where you uncover the secrets of a pyramid
 Celeste Factory | Wuff | 2022-06-29 | N/A | [itch.io](https://wuffmakesgames.itch.io/celeste-factory) | A wip newleste rendition with one chapter complete
 Abandoned | CoolElectronics | 2022-06-25 | #buweyajazi | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47976) | A mod with new mechanics and unique level design
 nowhere | kdx & Masséna | 2022-06-22 | #nowhere | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48269) | A place you've never been

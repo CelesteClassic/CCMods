@@ -25,7 +25,7 @@ Celestial Valley | taco360 | 2023-12-18 | N/A | [github](https://evergreengames.
 St. Leste | CoolElectronics | 2023-12-17 | N/A | [github](https://evergreengames.github.io/cchristmas/day5/stleste.html) | Deliver presents to celeste characters in place of santa, who has fallen ill
 Switch | Dehoisted | 2023-12-17 | N/A | [github](https://evergreengames.github.io/cchristmas/day5/switch.html) | A short level/puzzle mod themed around retractable spikes
 Rift | ooooggll | 2023-12-16 | #rift | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55352) | A puzzle mod centered around time travel
-Adelie Golf | Calverin | 2023-12-15 | N/A | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55342) | Celeste mountain if it were an extreme golf course
+Adelie Golf | Calverin | 2023-12-15 |  #adelie_golf | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55342) | Celeste mountain if it were an extreme golf course
 Mademaker | Antibrain | 2023-12-14 | N/A | [github](https://evergreengames.github.io/cchristmas/day2/mademaker.html) | A mod that lets you move around blocks as you play
 Athos | Sparky9d | 2023-12-13 | #athosmod | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=138658#p) | An exploration based mod with many available paths
 Flare | Veitamura | 2023-12-13 | N/A | [github](https://evergreengames.github.io/cchristmas/day1/flare.html) | A short level mod with an otherworldly aesthetic

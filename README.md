@@ -2,17 +2,17 @@
 Community curated list of the game's mods.
 
 ### Latest
+* 2024-04-01 - [Puzzlemod](https://www.lexaloffle.com/bbs/?tid=141339) by Lord SNEK
 * 2023-12-xx - [12 Days of CChristmas](https://evergreengames.github.io/cchristmas/) by the Celeste Community
 * 2023-12-13 - [Athos](https://www.lexaloffle.com/bbs/?pid=138658#p) by Sparky9d
 * 2023-08-25 - [labeste](https://www.lexaloffle.com/bbs/?pid=134164#p) by cheesemug
 * 2023-07-13 - [Celeste Tech Training](https://www.lexaloffle.com/bbs/?tid=53386) by Raptite
 * 2023-05-31 - [Cafe](https://www.lexaloffle.com/bbs/?tid=52930) by GunTurtle
-* 2023-01-25 - [Foraker](https://www.lexaloffle.com/bbs/?tid=51338) by Sheebeehs
-* 2023-01-16 - [Celeste Collab](https://www.lexaloffle.com/bbs/?tid=51210) by ooooggll, CoolElectronics and Lord SNEK
 
 
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ID | Link | Summary
 --- | --- | --- | --- | --- | ---
+Puzzlemod | Lord SNEK | 2024-04-01 | #puzzlemod | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=141339) | A celeste mod that's also literally a puzzle
 Site.p8 | Celeste Community | 2023-12-24 | N/A | [Download](https://cdn.discordapp.com/attachments/530191838007787551/1190679105868410930/site.p8?ex=65abe7d4&is=659972d4&hm=57cb877ca1623ee3bba9c0273ed298c59a304b07e37f3f5b9e7039cf26025893&) | The first completed chapter of newleste.p8, a community project to de-make Celeste (2018) in PICO-8
 Sugar Rush | Meep, taco360, RubyRed, gonengazit | 2023-12-23 | #sugarrush | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=140110) | A Wreck-It Ralph themed mod with magical candy pieces
 True North | Meep | 2023-12-23 | #truenorth | [itch.io](https://meepmoop.itch.io/true-north) | Explore an arctic climate and collect all the hats

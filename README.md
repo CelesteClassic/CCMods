@@ -13,25 +13,25 @@ Community curated list of the game's mods.
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ID | Link | Summary
 --- | --- | --- | --- | --- | ---
 Puzzlemod | Lord SNEK | 2024-04-01 | #puzzlemod | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=141339) | A celeste mod that's also literally a puzzle
-Site.p8 | Celeste Community | 2023-12-24 | N/A | [Download](https://cdn.discordapp.com/attachments/530191838007787551/1190679105868410930/site.p8?ex=65abe7d4&is=659972d4&hm=57cb877ca1623ee3bba9c0273ed298c59a304b07e37f3f5b9e7039cf26025893&) | The first completed chapter of newleste.p8, a community project to de-make Celeste (2018) in PICO-8
+Site.p8 | Celeste Community | 2023-12-24 | N/A | [Download](https://cdn.discordapp.com/attachments/530191838007787551/1190679105868410930/site.p8?ex=65abe7d4&is=659972d4&hm=57cb877ca1623ee3bba9c0273ed298c59a304b07e37f3f5b9e7039cf26025893&) | The first completed chapter of newleste.p8, a community project to de-make Celeste (2018) in PICO-8. Winner of Mod of the Year 2023 
 Sugar Rush | Meep, taco360, RubyRed, gonengazit | 2023-12-23 | #sugarrush | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=140110) | A Wreck-It Ralph themed mod with magical candy pieces
 True North | Meep | 2023-12-23 | #truenorth | [itch.io](https://meepmoop.itch.io/true-north) | Explore an arctic climate and collect all the hats
-Ultimate Selfie | Wuff & smellyfishtiks | 2023-12-22 | #ultimate_selfie | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55439) | Join Theo as he explores an underground world in pursuit of the Ultimate Selfie
-Solanum | Cominixo | 2023-12-21 | N/A | [github](https://evergreengames.github.io/cchristmas/day9/solanum.html) | A christmas themed mountain with some new mechanics
-Hollow Celeste | Lord SNEK & Sparky9d | 2023-12-20 | #hollowceleste-1 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55480) | A mod that takes place in the world of hollow knight with a nail-themed moveset
+Ultimate Selfie | Wuff & smellyfishtiks | 2023-12-22 | #ultimate_selfie | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55439) | Join Theo as he explores an underground world in pursuit of the Ultimate Selfie. Winner of Best Visuals 2023
+Solanum | Cominixo | 2023-12-21 | N/A | [github](https://evergreengames.github.io/cchristmas/day9/solanum.html) | A christmas themed mountain with some new mechanics. Winner of Best Speedgame 2023
+Hollow Celeste | Lord SNEK & Sparky9d | 2023-12-20 | #hollowceleste-1 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55480) | A mod that takes place in the world of hollow knight with a nail-themed moveset. Winner of Best Challenge 2023
 Actuate | Sparky9d | 2023-12-19 | N/A | [github](https://evergreengames.github.io/cchristmas/day7/actuate.html) | A short level/puzzle mod themed around retractable spikes
 Blanc | Sheeb | 2023-12-19 | N/A | [github](https://evergreengames.github.io/cchristmas/day7/blanc.html) | A short map mod that requires some light speed tech
-Celestial Valley | taco360 | 2023-12-18 | N/A | [github](https://evergreengames.github.io/cchristmas/day6/celestial_valley.html) | A farming game where you grow strawberries at the base of celeste mountain
+Celestial Valley | taco360 | 2023-12-18 | N/A | [github](https://evergreengames.github.io/cchristmas/day6/celestial_valley.html) | A farming game where you grow strawberries at the base of celeste mountain. Winner of Most Innovative 2023
 St. Leste | CoolElectronics | 2023-12-17 | N/A | [github](https://evergreengames.github.io/cchristmas/day5/stleste.html) | Deliver presents to celeste characters in place of santa, who has fallen ill
 Switch | Dehoisted | 2023-12-17 | N/A | [github](https://evergreengames.github.io/cchristmas/day5/switch.html) | A short level/puzzle mod themed around retractable spikes
 Rift | ooooggll | 2023-12-16 | #rift | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55352) | A puzzle mod centered around time travel
-Adelie Golf | Calverin | 2023-12-15 |  #adelie_golf | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55342) | Celeste mountain if it were an extreme golf course
+Adelie Golf | Calverin | 2023-12-15 |  #adelie_golf | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55342) | Celeste mountain if it were an extreme golf course. Winner of Best Main Character 2023
 Mademaker | Antibrain | 2023-12-14 | N/A | [github](https://evergreengames.github.io/cchristmas/day2/mademaker.html) | A mod that lets you move around blocks as you play
-Athos | Sparky9d | 2023-12-13 | #athosmod | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=138658#p) | An exploration based mod with many available paths
+Athos | Sparky9d | 2023-12-13 | #athosmod | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=138658#p) | An exploration based mod with many available paths. Winner of Best Level Design 2023
 Flare | Veitamura | 2023-12-13 | N/A | [github](https://evergreengames.github.io/cchristmas/day1/flare.html) | A short level mod with an otherworldly aesthetic
 labeste | cheesemug | 2023-08-25 | #labeste | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=53867) | A laboratory-themed mod that teaches tech
 Celeste Tech Training | Raptite | 2023-07-13 | #celestetechtrain3 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=53386) | Gym for learning basic celeste tech, with a hard challenge at the end
-Cafe | GunTurtle | 2023-05-31 | #gunturtle_cafe | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=52930) | A very challenging mod with new dash mechanics and coffee bean items
+Cafe | GunTurtle | 2023-05-31 | #gunturtle_cafe | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=52930) | A very challenging mod with new dash mechanics and coffee bean items. Winner of Best Soundtrack 2023
 Foraker | Sheeb | 2023-01-24 | #foraker | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51338) | Yet another short aesthetic map mod
 Noir | ooooggll & ummmm_ok | 2023-01-16 | #celeste_classic_collab | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the Celeste classic collab with a new gravity flipping mcehanic
 Roundelie Adventure 8 | Lord SNEK | 2023-01-16 | #celeste_classic_collab | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with a limited moveset and puzzles

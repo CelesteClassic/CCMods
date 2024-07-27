@@ -2,6 +2,7 @@
 Community curated list of the game's mods.
 
 ### Latest
+* 2024-07-16 - [Madeline and her Trusty Stepstool vs Celeste Mountain](https://www.lexaloffle.com/bbs/?tid=143178) by ooooggll
 * 2024-04-01 - [Puzzlemod](https://www.lexaloffle.com/bbs/?tid=141339) by Lord SNEK
 * 2023-12-xx - [12 Days of CChristmas](https://evergreengames.github.io/cchristmas/) by the Celeste Community
 * 2023-12-13 - [Athos](https://www.lexaloffle.com/bbs/?pid=138658#p) by Sparky9d
@@ -12,6 +13,7 @@ Community curated list of the game's mods.
 
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ID | Link | Summary
 --- | --- | --- | --- | --- | ---
+Madeline and her Trusty Stepstool vs Celeste Mountain | ooooggll | 2024-07-16 | #stoolmod | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=143178) | Partner with your trusty stepstool to reach the peak of this challenging climb
 Puzzlemod | Lord SNEK | 2024-04-01 | #puzzlemod | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=141339) | A celeste mod that's also literally a puzzle
 Site.p8 | Celeste Community | 2023-12-24 | N/A | [Download](https://cdn.discordapp.com/attachments/530191838007787551/1190679105868410930/site.p8?ex=65abe7d4&is=659972d4&hm=57cb877ca1623ee3bba9c0273ed298c59a304b07e37f3f5b9e7039cf26025893&) | The first completed chapter of newleste.p8, a community project to de-make Celeste (2018) in PICO-8. Winner of Mod of the Year 2023 
 Sugar Rush | Meep, taco360, RubyRed, gonengazit | 2023-12-23 | #sugarrush | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=140110) | A Wreck-It Ralph themed mod with magical candy pieces

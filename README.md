@@ -2,6 +2,7 @@
 Community curated list of the game's mods.
 
 ### Latest
+* 2024-12-xx - [12 Days of CChristmas](https://evergreengames.github.io/cchristmas/) by the Celeste Community (ongoing)
 * 2024-11-23 - [Swap](https://www.lexaloffle.com/bbs/?tid=145429) by AntiBrain
 * 2024-08-20 - [Frozen Caves](https://www.lexaloffle.com/bbs/?tid=143761) by AntiBrain
 * 2024-07-16 - [Madeline and her Trusty Stepstool vs Celeste Mountain](https://www.lexaloffle.com/bbs/?tid=143178) by ooooggll

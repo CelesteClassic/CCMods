@@ -11,8 +11,6 @@ Community curated list of the game's mods.
 * 2024-07-16 - [Madeline and her Trusty Stepstool vs Celeste Mountain](https://www.lexaloffle.com/bbs/?tid=143178) by ooooggll
 * 2024-06-25 - [Celeste Spring Edition](https://www.lexaloffle.com/bbs/?tid=142849) by superboi
 * 2024-04-01 - [Puzzlemod](https://www.lexaloffle.com/bbs/?tid=141339) by Lord SNEK
-* 2023-12-xx - [12 Days of CChristmas](https://evergreengames.github.io/cchristmas/) by the Celeste Community
-* 2023-12-13 - [Athos](https://www.lexaloffle.com/bbs/?pid=138658#p) by Sparky9d
 
 
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ID | Link | Summary

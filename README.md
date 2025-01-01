@@ -2,10 +2,14 @@
 Community curated list of the game's mods.
 
 ### Latest
+* 2024-12-27 - [Bunnyleste](https://cdn.discordapp.com/attachments/521127150829699072/1322759426465333349/bunnyleste.p8?ex=6776a876&is=677556f6&hm=c0bd5971526953a3ce622608429a1d294757f3c16483bac2c9b88af331b5fb99&) by Warspyking
 * 2024-12-xx - [12 Days of CChristmas](https://evergreengames.github.io/cchristmas/) by the Celeste Community
 * 2024-11-23 - [Swap](https://www.lexaloffle.com/bbs/?tid=145429) by AntiBrain
+* 2024-08-22 - [Gock](https://www.lexaloffle.com/bbs/?tid=143814) by Swordy
 * 2024-08-20 - [Frozen Caves](https://www.lexaloffle.com/bbs/?tid=143761) by AntiBrain
+* 2024-08-17 - [Celeste Gym](https://www.lexaloffle.com/bbs/?tid=143726) by AntiBrain
 * 2024-07-16 - [Madeline and her Trusty Stepstool vs Celeste Mountain](https://www.lexaloffle.com/bbs/?tid=143178) by ooooggll
+* 2024-06-25 - [Celeste Spring Edition](https://www.lexaloffle.com/bbs/?tid=142849) by superboi
 * 2024-04-01 - [Puzzlemod](https://www.lexaloffle.com/bbs/?tid=141339) by Lord SNEK
 * 2023-12-xx - [12 Days of CChristmas](https://evergreengames.github.io/cchristmas/) by the Celeste Community
 * 2023-12-13 - [Athos](https://www.lexaloffle.com/bbs/?pid=138658#p) by Sparky9d
@@ -13,6 +17,7 @@ Community curated list of the game's mods.
 
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ID | Link | Summary
 --- | --- | --- | --- | --- | ---
+Bunnyleste | Warspyking | 2024-12-27 | N/A | [Download](https://cdn.discordapp.com/attachments/521127150829699072/1322759426465333349/bunnyleste.p8?ex=6776a876&is=677556f6&hm=c0bd5971526953a3ce622608429a1d294757f3c16483bac2c9b88af331b5fb99&) | A vertical challenge mod where Madeline constantly jumps
 Fairway | Meep | 2024-12-24 | N/A | [github](https://evergreengames.github.io/cchristmas/2024/day12/fairway.html) | Dash to the flag!
 Labyrinth | ahumanhuman | 2024-12-23 | N/A | [github](https://evergreengames.github.io/cchristmas/2024/day11/labyrinth.html) | A short tech-based celeste mod where you collect tokens to unlock new areas
 Blanc | Sheeb | 2023-12-19 | N/A | [github](https://evergreengames.github.io/cchristmas/2024/day10/blanc_v2.html) | A short map mod that requires some light speed tech. Received a major update for the 2024 12 days of CChristmas jam
@@ -26,8 +31,11 @@ Shooting Star | ooooggll & btdubbz | 2024-12-15 | N/A | [github](https://evergre
 Bump Jump Mania | Cominixo | 2024-12-14 | #bumpjump | [github](https://evergreengames.github.io/cchristmas/2024/day2/bumpjumpmania.html) | A bump jump consistency minigame with fun skins to unlock
 Duality | Superboi | 2024-12-13 | N/A | [github](https://evergreengames.github.io/cchristmas/2024/day1/duality.html) | Twice the Madeline, twice the fun
 Swap | AntiBrain | 2024-11-23 | #switch | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=145429) | The first major 60 fps mod, with several other new mechanics
+Gock | Swordy | 2024-08-22 | #gock_version_1_1 | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=143814) | A difficult mod with a lot of custom spriting and new mechanics
 Frozen Caves | AntiBrain | 2024-08-20 | #frozencaves | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=143761) | Dig deep into a mine to search for a mysterious buried treasure
+Celeste Gym | AntiBrain | 2024-08-17 | #ccgym | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=143726) | A tutorial mod that teaches some speed tech, with a harder challenge at the end
 Madeline and her Trusty Stepstool vs Celeste Mountain | ooooggll | 2024-07-16 | #stoolmod | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=143178) | Partner with your trusty stepstool to reach the peak of this challenging climb
+Celeste: Spring Edition | superboi | 2024-06-25 | #celeste_spring | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=142849) | An easier aesthetic mod themed around spring
 Puzzlemod | Lord SNEK | 2024-04-01 | #puzzlemod | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=141339) | A celeste mod that's also literally a puzzle
 Site.p8 | Celeste Community | 2023-12-24 | N/A | [Download](https://cdn.discordapp.com/attachments/530191838007787551/1190679105868410930/site.p8?ex=65abe7d4&is=659972d4&hm=57cb877ca1623ee3bba9c0273ed298c59a304b07e37f3f5b9e7039cf26025893&) | The first completed chapter of newleste.p8, a community project to de-make Celeste (2018) in PICO-8. Winner of Mod of the Year 2023 
 Sugar Rush | Meep, taco360, RubyRed, gonengazit | 2023-12-23 | #sugarrush | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=140110) | A Wreck-It Ralph themed mod with magical candy pieces

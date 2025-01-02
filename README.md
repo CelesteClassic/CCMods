@@ -61,7 +61,7 @@ Land! | eYan | 2022-09-12 | #land | [Lexaloffle](https://www.lexaloffle.com/bbs/
 Oldeste | Noel | 2022-08-17 | #oldeste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48946) | Celeste but the protagonist aged and moves slow
 Hallow Neste | ooooggll | 2022-07-03 | #hallowneste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48396) | A short Celeste Classic x Hollow Knight mod
 Rosetta | Meep | 2022-06-30 | #rosetta | [itch.io](https://meepmoop.itch.io/rosetta) | A puzzley mod where you uncover the secrets of a pyramid
-Celeste Factory | Wuff | 2022-06-29 | N/A | [itch.io](https://wuffmakesgames.itch.io/celeste-factory) | A wip newleste rendition with one chapter complete
+Celeste Factory | Howf | 2022-06-29 | N/A | [itch.io](https://wuffmakesgames.itch.io/celeste-factory) | A wip newleste rendition with one chapter complete
 Abandoned | CoolElectronics | 2022-06-25 | #buweyajazi | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=47976) | A mod with new mechanics and unique level design
 nowhere | kdx & Masséna | 2022-06-22 | #nowhere | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48269) | A place you've never been
 Fault 2 | SandwichBlamwich | 2022-06-11 | #fault2 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=48118) | A vertically scrolling downhill map mod

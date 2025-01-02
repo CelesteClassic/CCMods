@@ -24,7 +24,7 @@ Filament | AntiBrain | 2024-12-20 | N/A | [github](https://evergreengames.github
 Sterrenmeid | faith | 2024-12-19 | N/A |[itch.io](https://sterrenmaid.itch.io/sterrenmeid) | Journey to the center of a strange planet in a mod packed with new mechanics
 Celestial Valley | taco360 | 2023-12-18 | N/A | [itch.io](https://petthepetra.itch.io/celestial-valley) | A farming game where you grow strawberries at the base of celeste mountain. Winner of Most Innovative 2023. Received a major update for the 2024 12 days of CChristmas jam
 Burnin' Trail | Lord SNEK & Howf | 2024-12-17 | #burningtrail | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=146225) | Explore a dense jungle mountain littered with traps and puzzles, burning your way to the top
-sans titre | kdx | 2024-12-16 | N/A | [github](https://evergreengames.github.io/cchristmas/2024/day4/sanstitre.html) | A short but difficult mod with new visuals
+sans titre | kdx | 2024-12-16 | #sanstitre | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=146147) | A short but difficult mod with new visuals
 Shooting Star | ooooggll & btdubbz | 2024-12-15 | N/A | [github](https://evergreengames.github.io/cchristmas/2024/day3/shooting_star.html) | The first widescreen celeste mod, taking place in space with new mechanics and powerups
 Bump Jump Mania | Cominixo | 2024-12-14 | #bumpjump | [github](https://evergreengames.github.io/cchristmas/2024/day2/bumpjumpmania.html) | A bump jump consistency minigame with fun skins to unlock
 Duality | Superboi | 2024-12-13 | N/A | [github](https://evergreengames.github.io/cchristmas/2024/day1/duality.html) | Twice the Madeline, twice the fun

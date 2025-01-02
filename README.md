@@ -23,8 +23,8 @@ Winter Glass | anshumanneon | 2024-12-21 | N/A | [github](https://evergreengames
 Filament | AntiBrain | 2024-12-20 | N/A | [github](https://evergreengames.github.io/cchristmas/2024/day8/filament.html) | A dark mod where you have to move light sources to progress
 Sterrenmeid | faith | 2024-12-19 | N/A |[itch.io](https://sterrenmaid.itch.io/sterrenmeid) | Journey to the center of a strange planet in a mod packed with new mechanics
 Celestial Valley | taco360 | 2023-12-18 | N/A | [itch.io](https://petthepetra.itch.io/celestial-valley) | A farming game where you grow strawberries at the base of celeste mountain. Winner of Most Innovative 2023. Received a major update for the 2024 12 days of CChristmas jam
-Burnin' Trail | Lord SNEK & Wuff | 2024-12-17 | #burningtrail | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=146225) | Explore a dense jungle mountain littered with traps and puzzles, burning your way to the top
-Sans titre | kdx | 2024-12-16 | N/A | [github](https://evergreengames.github.io/cchristmas/2024/day4/sanstitre.html) | A short but difficult mod with a new take on walljumping
+Burnin' Trail | Lord SNEK & Howf | 2024-12-17 | #burningtrail | [lexaloffle](https://www.lexaloffle.com/bbs/?tid=146225) | Explore a dense jungle mountain littered with traps and puzzles, burning your way to the top
+sans titre | kdx | 2024-12-16 | N/A | [github](https://evergreengames.github.io/cchristmas/2024/day4/sanstitre.html) | A short but difficult mod with new visuals
 Shooting Star | ooooggll & btdubbz | 2024-12-15 | N/A | [github](https://evergreengames.github.io/cchristmas/2024/day3/shooting_star.html) | The first widescreen celeste mod, taking place in space with new mechanics and powerups
 Bump Jump Mania | Cominixo | 2024-12-14 | #bumpjump | [github](https://evergreengames.github.io/cchristmas/2024/day2/bumpjumpmania.html) | A bump jump consistency minigame with fun skins to unlock
 Duality | Superboi | 2024-12-13 | N/A | [github](https://evergreengames.github.io/cchristmas/2024/day1/duality.html) | Twice the Madeline, twice the fun
@@ -38,7 +38,7 @@ Puzzlemod | Lord SNEK | 2024-04-01 | #puzzlemod | [lexaloffle](https://www.lexal
 Site.p8 | Celeste Community | 2023-12-24 | N/A | [Download](https://cdn.discordapp.com/attachments/530191838007787551/1190679105868410930/site.p8?ex=65abe7d4&is=659972d4&hm=57cb877ca1623ee3bba9c0273ed298c59a304b07e37f3f5b9e7039cf26025893&) | The first completed chapter of newleste.p8, a community project to de-make Celeste (2018) in PICO-8. Winner of Mod of the Year 2023 
 Sugar Rush | Meep, taco360, RubyRed, gonengazit | 2023-12-23 | #sugarrush | [Lexaloffle](https://www.lexaloffle.com/bbs/?pid=140110) | A Wreck-It Ralph themed mod with magical candy pieces
 True North | Meep | 2023-12-23 | #truenorth | [itch.io](https://meepmoop.itch.io/true-north) | Explore an arctic climate and collect all the hats
-Ultimate Selfie | Wuff & smellyfishtiks | 2023-12-22 | #ultimate_selfie | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55439) | Join Theo as he explores an underground world in pursuit of the Ultimate Selfie. Winner of Best Visuals 2023
+Ultimate Selfie | Howf & smellyfishtiks | 2023-12-22 | #ultimate_selfie | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55439) | Join Theo as he explores an underground world in pursuit of the Ultimate Selfie. Winner of Best Visuals 2023
 Solanum | Cominixo | 2023-12-21 | N/A | [github](https://evergreengames.github.io/cchristmas/day9/solanum.html) | A christmas themed mountain with some new mechanics. Winner of Best Speedgame 2023
 Hollow Celeste | Lord SNEK & Sparky9d | 2023-12-20 | #hollowceleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55480) | A mod that takes place in the world of hollow knight with a nail-themed moveset. Winner of Best Challenge 2023
 Actuate | Sparky9d | 2023-12-19 | N/A | [github](https://evergreengames.github.io/cchristmas/day7/actuate.html) | A short level/puzzle mod themed around retractable spikes

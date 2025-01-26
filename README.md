@@ -1,6 +1,7 @@
 # Celeste Classic Mods
 
-Community curated list of the game's mods.
+Community curated list of the game's mods, sorted by the date of their last
+update.
 
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Cart ID/Link | Summary
 --- | --- | --- | --- | ---

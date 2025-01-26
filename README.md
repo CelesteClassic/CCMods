@@ -1,17 +1,6 @@
 # Celeste Classic Mods
+
 Community curated list of the game's mods.
-
-### Latest
-* 2024-12-27 - [Bunnyleste](https://cdn.discordapp.com/attachments/521127150829699072/1322759426465333349/bunnyleste.p8?ex=6776a876&is=677556f6&hm=c0bd5971526953a3ce622608429a1d294757f3c16483bac2c9b88af331b5fb99&) by Warspyking
-* 2024-12-xx - [12 Days of CChristmas](https://evergreengames.github.io/cchristmas/) by the Celeste Community
-* 2024-11-23 - [Swap](https://www.lexaloffle.com/bbs/?tid=145429) by AntiBrain
-* 2024-08-22 - [Gock](https://www.lexaloffle.com/bbs/?tid=143814) by Swordy
-* 2024-08-20 - [Frozen Caves](https://www.lexaloffle.com/bbs/?tid=143761) by AntiBrain
-* 2024-08-17 - [Celeste Gym](https://www.lexaloffle.com/bbs/?tid=143726) by AntiBrain
-* 2024-07-16 - [Madeline and her Trusty Stepstool vs Celeste Mountain](https://www.lexaloffle.com/bbs/?tid=143178) by ooooggll
-* 2024-06-25 - [Celeste Spring Edition](https://www.lexaloffle.com/bbs/?tid=142849) by superboi
-* 2024-04-01 - [Puzzlemod](https://www.lexaloffle.com/bbs/?tid=141339) by Lord SNEK
-
 
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ID | Link | Summary
 --- | --- | --- | --- | --- | ---

@@ -16,7 +16,7 @@ Celestial Valley | petthepetra | 2023-12-18 | [#celestial_valley](https://petthe
 Burnin' Trail | Lord SNEK & Howf | 2024-12-17 | [#burningtrail](https://www.lexaloffle.com/bbs/?tid=146225) | Explore a dense jungle mountain littered with traps and puzzles, burning your way to the top
 sans titre | kdx | 2024-12-16 | [#sanstitre](https://www.lexaloffle.com/bbs/?tid=146147) | A short but difficult mod with new visuals
 Shooting Star | ooooggll & btdubbz | 2024-12-15 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day3/shooting_star.html) | The first widescreen celeste mod, taking place in space with new mechanics and powerups
-Bump Jump Mania | Cominixo | 2024-12-14 | [#bumpjump](https://evergreengames.CChristmas.io/cchristmas/2024/day2/bumpjumpmania.html) | A bump jump consistency minigame with fun skins to unlock
+Bump Jump Mania | Cominixo | 2024-12-14 | [#bumpjump](https://evergreengames.github.io/cchristmas/2024/day2/bumpjumpmania.html) | A bump jump consistency minigame with fun skins to unlock
 Duality | Superboi | 2024-12-13 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day1/duality.html) | Twice the Madeline, twice the fun
 Swap | AntiBrain | 2024-11-23 | [#switch](https://www.lexaloffle.com/bbs/?tid=145429) | The first major 60 fps mod, with several other new mechanics
 Gock | Swordy | 2024-08-22 | [#gock_version_1_1](https://www.lexaloffle.com/bbs/?tid=143814) | A difficult mod with a lot of custom spriting and new mechanics

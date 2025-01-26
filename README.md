@@ -10,7 +10,7 @@ Labyrinth | ahumanhuman | 2024-12-23 | [github](https://evergreengames.github.io
 Blanc | Sheeb | 2023-12-19 | [github](https://evergreengames.github.io/cchristmas/2024/day10/blanc_v2.html) | A short map mod that requires some light speed tech. Received a major update for the 2024 12 days of CChristmas jam
 Winter Glass | anshumanneon | 2024-12-21 | [github](https://evergreengames.github.io/cchristmas/2024/day9/winterglass.html) | A challenging short mod that takes place on an icy mountain
 Filament | AntiBrain | 2024-12-20 | [github](https://evergreengames.github.io/cchristmas/2024/day8/filament.html) | A dark mod where you have to move light sources to progress
-Sterrenmeid | faith | 2024-12-19 | N/A |[itch.io](https://sterrenmaid.itch.io/sterrenmeid) | Journey to the center of a strange planet in a mod packed with new mechanics
+Sterrenmeid | faith | 2024-12-19 | [itch.io](https://sterrenmaid.itch.io/sterrenmeid) | Journey to the center of a strange planet in a mod packed with new mechanics
 Celestial Valley | petthepetra | 2023-12-18 | [#celestial_valley](https://petthepetra.itch.io/celestial-valley) | A farming game where you grow strawberries at the base of celeste mountain. Winner of Most Innovative 2023. Received a major update for the 2024 12 days of CChristmas jam
 Burnin' Trail | Lord SNEK & Howf | 2024-12-17 | [#burningtrail](https://www.lexaloffle.com/bbs/?tid=146225) | Explore a dense jungle mountain littered with traps and puzzles, burning your way to the top
 sans titre | kdx | 2024-12-16 | [#sanstitre](https://www.lexaloffle.com/bbs/?tid=146147) | A short but difficult mod with new visuals
@@ -34,7 +34,7 @@ Actuate | Sparky9d | 2023-12-19 | [github](https://evergreengames.github.io/cchr
 St. Leste | CoolElectronics | 2023-12-17 | [github](https://evergreengames.github.io/cchristmas/day5/stleste.html) | Deliver presents to celeste characters in place of santa, who has fallen ill
 Switch | Dehoisted | 2023-12-17 | [github](https://evergreengames.github.io/cchristmas/day5/switch.html) | A short level/puzzle mod themed around retractable spikes
 Rift | ooooggll | 2023-12-16 | [#rift](https://www.lexaloffle.com/bbs/?tid=55352) | A puzzle mod centered around time travel
-Adelie Golf | Calverin | 2023-12-15 |  #adelie_golf | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=55342) | Celeste mountain if it were an extreme golf course. Winner of Best Main Character 2023
+Adelie Golf | Calverin | 2023-12-15 | [#adelie_golf](https://www.lexaloffle.com/bbs/?tid=55342) | Celeste mountain if it were an extreme golf course. Winner of Best Main Character 2023
 Mademaker | Antibrain | 2023-12-14 | [github](https://evergreengames.github.io/cchristmas/day2/mademaker.html) | A mod that lets you move around blocks as you play
 Athos | Sparky9d | 2023-12-13 | [#athosmod](https://www.lexaloffle.com/bbs/?pid=138658#p) | An exploration based mod with many available paths. Winner of Best Level Design 2023
 Flare | Veitamura | 2023-12-13 | [github](https://evergreengames.github.io/cchristmas/day1/flare.html) | A short level mod with an otherworldly aesthetic
@@ -74,7 +74,7 @@ Real Funk | Acedic | 2021-02-14 | [Download](https://cdn.discordapp.com/attachme
 Scrolleste | Warspyking | 2021-02-05 | [#scrolleste](https://www.lexaloffle.com/bbs/?tid=41751) | A scrolling mod that stitched all of the Celeste Classic levels into one large level, with rising lava. 037
 Celeste Dark World | CreepinAtMyDoor | 2021-02-03 | [#celestedarkworld](https://www.lexaloffle.com/bbs/?tid=41389) | Celeste Classic with moderate and sensible difficulty tweaks
 Foreverred | petthepetra | 2020-12-31 | [#foreverred](https://petthepetra.itch.io/foreverred) | Gigantic remake of Everred, roughly 3x the size of Celeste Classic
-Procgen | Meep | 2020-12-17 | #pgleste, #endleste | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=40773) | A mod that generates beatable levels randomly
+Procgen | Meep | 2020-12-17 | [#pgleste, #endleste](https://www.lexaloffle.com/bbs/?tid=40773) | A mod that generates beatable levels randomly
 Farland | Kamera | 2020-12-16 | [#farland](https://kamera.itch.io/farland) | A map mod with scrolling levels
 JANK | kdx | 2020-12-03 | [#jank](https://www.lexaloffle.com/bbs/?tid=40654) | Welcome to a world of pain
 Falleste | Sparky9d | 2020-11-23 | [#falleste](https://www.lexaloffle.com/bbs/?tid=40312) | A hard mod with many new mechanics

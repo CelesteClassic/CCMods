@@ -99,13 +99,15 @@ Jusebameya | Yeetboi | 2019-03-06 | [#jusebameya](https://www.lexaloffle.com/bbs
 Adelie | Meep | 2019-02-13 | [#adelie](https://meepmoop.itch.io/adelie) | A metroidvania mod
 Celeste 1.5 | RubyRed | 2019-01-27 | [#celeste_1_5](https://www.lexaloffle.com/bbs/?tid=33037) | Celeste Classic but with some of the mechanics from Celeste 2018
 Celeste Downhill | RevTheGame | 2019-01-26 | [itch.io](https://revthegame.itch.io/celeste-downhill) | Follow the path of least resistance
-Selena | Baldjared | 2016-12-13 | [#selena_2](https://www.lexaloffle.com/bbs/?tid=39035) | An older short mod with technical platforming
+Selena | Baldjared | 2016-12-13 | [#selena_2](https://www.lexaloffle.com/bbs/?tid=39035)[^2] | An older short mod with technical platforming
 Perisher | managore | 2016-09-20 | [#28861](https://managore.itch.io/perisher) | A puzzle mod featuring pushable blocks
 Celeste GTGF | seckswrecks | 2016-05-07 | [#20279](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster
-Mutate | Justin | 2016-02-09 | [#muteste](https://www.lexaloffle.com/bbs/cart_info.php?cid=muteste)[^2] | Celeste Classic but the tiles are slowly changing to other tiles
+Mutate | Justin | 2016-02-09 | [#muteste](https://www.lexaloffle.com/bbs/cart_info.php?cid=muteste)[^3] | Celeste Classic but the tiles are slowly changing to other tiles
 Arielle | Justin | 2015-12-03 | [#17421](https://www.lexaloffle.com/bbs/?pid=17422#p17421) | A short vanilla-difficulty map mod
 
 [^1]: Reupload of a [discord attachment](https://cdn.discordapp.com/attachments/521127150829699072/715372716349325442/celawne.p8.png) to Lexaloffle by Dehoisted
 
-[^2]: Reupload of a [discord attachment](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) to Lexaloffle by FlyingPenguin
+[^2]: Reupload of a previously lost mod to Lexaloffle by Augie
+
+[^3]: Reupload of a [discord attachment](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) to Lexaloffle by FlyingPenguin
 

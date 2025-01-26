@@ -5,18 +5,18 @@ Community curated list of the game's mods.
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Cart ID/Link | Summary
 --- | --- | --- | --- | ---
 Bunnyleste | Warspyking | 2024-12-27 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/1322759426465333349/bunnyleste.p8?ex=6776a876&is=677556f6&hm=c0bd5971526953a3ce622608429a1d294757f3c16483bac2c9b88af331b5fb99&) | A vertical challenge mod where Madeline constantly jumps
-Fairway | Meep | 2024-12-24 | [github](https://evergreengames.github.io/cchristmas/2024/day12/fairway.html) | Dash to the flag!
-Labyrinth | ahumanhuman | 2024-12-23 | [github](https://evergreengames.github.io/cchristmas/2024/day11/labyrinth.html) | A short tech-based celeste mod where you collect tokens to unlock new areas
-Blanc | Sheeb | 2023-12-19 | [github](https://evergreengames.github.io/cchristmas/2024/day10/blanc_v2.html) | A short map mod that requires some light speed tech. Received a major update for the 2024 12 days of CChristmas jam
-Winter Glass | anshumanneon | 2024-12-21 | [github](https://evergreengames.github.io/cchristmas/2024/day9/winterglass.html) | A challenging short mod that takes place on an icy mountain
-Filament | AntiBrain | 2024-12-20 | [github](https://evergreengames.github.io/cchristmas/2024/day8/filament.html) | A dark mod where you have to move light sources to progress
+Fairway | Meep | 2024-12-24 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day12/fairway.html) | Dash to the flag!
+Labyrinth | ahumanhuman | 2024-12-23 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day11/labyrinth.html) | A short tech-based celeste mod where you collect tokens to unlock new areas
+Blanc | Sheeb | 2023-12-19 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day10/blanc_v2.html) | A short map mod that requires some light speed tech. Received a major update for the 2024 12 days of CChristmas jam
+Winter Glass | anshumanneon | 2024-12-21 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day9/winterglass.html) | A challenging short mod that takes place on an icy mountain
+Filament | AntiBrain | 2024-12-20 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day8/filament.html) | A dark mod where you have to move light sources to progress
 Sterrenmeid | faith | 2024-12-19 | [itch.io](https://sterrenmaid.itch.io/sterrenmeid) | Journey to the center of a strange planet in a mod packed with new mechanics
 Celestial Valley | petthepetra | 2023-12-18 | [#celestial_valley](https://petthepetra.itch.io/celestial-valley) | A farming game where you grow strawberries at the base of celeste mountain. Winner of Most Innovative 2023. Received a major update for the 2024 12 days of CChristmas jam
 Burnin' Trail | Lord SNEK & Howf | 2024-12-17 | [#burningtrail](https://www.lexaloffle.com/bbs/?tid=146225) | Explore a dense jungle mountain littered with traps and puzzles, burning your way to the top
 sans titre | kdx | 2024-12-16 | [#sanstitre](https://www.lexaloffle.com/bbs/?tid=146147) | A short but difficult mod with new visuals
-Shooting Star | ooooggll & btdubbz | 2024-12-15 | [github](https://evergreengames.github.io/cchristmas/2024/day3/shooting_star.html) | The first widescreen celeste mod, taking place in space with new mechanics and powerups
-Bump Jump Mania | Cominixo | 2024-12-14 | [#bumpjump](https://evergreengames.github.io/cchristmas/2024/day2/bumpjumpmania.html) | A bump jump consistency minigame with fun skins to unlock
-Duality | Superboi | 2024-12-13 | [github](https://evergreengames.github.io/cchristmas/2024/day1/duality.html) | Twice the Madeline, twice the fun
+Shooting Star | ooooggll & btdubbz | 2024-12-15 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day3/shooting_star.html) | The first widescreen celeste mod, taking place in space with new mechanics and powerups
+Bump Jump Mania | Cominixo | 2024-12-14 | [#bumpjump](https://evergreengames.CChristmas.io/cchristmas/2024/day2/bumpjumpmania.html) | A bump jump consistency minigame with fun skins to unlock
+Duality | Superboi | 2024-12-13 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day1/duality.html) | Twice the Madeline, twice the fun
 Swap | AntiBrain | 2024-11-23 | [#switch](https://www.lexaloffle.com/bbs/?tid=145429) | The first major 60 fps mod, with several other new mechanics
 Gock | Swordy | 2024-08-22 | [#gock_version_1_1](https://www.lexaloffle.com/bbs/?tid=143814) | A difficult mod with a lot of custom spriting and new mechanics
 Frozen Caves | AntiBrain | 2024-08-20 | [#frozencaves](https://www.lexaloffle.com/bbs/?tid=143761) | Dig deep into a mine to search for a mysterious buried treasure
@@ -28,16 +28,16 @@ Site.p8 | Celeste Community | 2023-12-24 | [Download](https://cdn.discordapp.com
 Sugar Rush | Meep, petthepetra, RubyRed, gonengazit | 2023-12-23 | [#sugarrush](https://www.lexaloffle.com/bbs/?pid=140110) | A Wreck-It Ralph themed mod with magical candy pieces
 True North | Meep | 2023-12-23 | [#truenorth](https://meepmoop.itch.io/true-north) | Explore an arctic climate and collect all the hats
 Ultimate Selfie | Howf & smellyfishtiks | 2023-12-22 | [#ultimate_selfie](https://www.lexaloffle.com/bbs/?tid=55439) | Join Theo as he explores an underground world in pursuit of the Ultimate Selfie. Winner of Best Visuals 2023
-Solanum | Cominixo | 2023-12-21 | [github](https://evergreengames.github.io/cchristmas/day9/solanum.html) | A christmas themed mountain with some new mechanics. Winner of Best Speedgame 2023
+Solanum | Cominixo | 2023-12-21 | [CChristmas](https://evergreengames.github.io/cchristmas/day9/solanum.html) | A christmas themed mountain with some new mechanics. Winner of Best Speedgame 2023
 Hollow Celeste | Lord SNEK & Sparky9d | 2023-12-20 | [#hollowceleste](https://www.lexaloffle.com/bbs/?tid=55480) | A mod that takes place in the world of hollow knight with a nail-themed moveset. Winner of Best Challenge 2023
-Actuate | Sparky9d | 2023-12-19 | [github](https://evergreengames.github.io/cchristmas/day7/actuate.html) | A short level/puzzle mod themed around retractable spikes
-St. Leste | CoolElectronics | 2023-12-17 | [github](https://evergreengames.github.io/cchristmas/day5/stleste.html) | Deliver presents to celeste characters in place of santa, who has fallen ill
-Switch | Dehoisted | 2023-12-17 | [github](https://evergreengames.github.io/cchristmas/day5/switch.html) | A short level/puzzle mod themed around retractable spikes
+Actuate | Sparky9d | 2023-12-19 | [CChristmas](https://evergreengames.github.io/cchristmas/day7/actuate.html) | A short level/puzzle mod themed around retractable spikes
+St. Leste | CoolElectronics | 2023-12-17 | [CChristmas](https://evergreengames.github.io/cchristmas/day5/stleste.html) | Deliver presents to celeste characters in place of santa, who has fallen ill
+Switch | Dehoisted | 2023-12-17 | [CChristmas](https://evergreengames.github.io/cchristmas/day5/switch.html) | A short level/puzzle mod themed around retractable spikes
 Rift | ooooggll | 2023-12-16 | [#rift](https://www.lexaloffle.com/bbs/?tid=55352) | A puzzle mod centered around time travel
 Adelie Golf | Calverin | 2023-12-15 | [#adelie_golf](https://www.lexaloffle.com/bbs/?tid=55342) | Celeste mountain if it were an extreme golf course. Winner of Best Main Character 2023
-Mademaker | Antibrain | 2023-12-14 | [github](https://evergreengames.github.io/cchristmas/day2/mademaker.html) | A mod that lets you move around blocks as you play
+Mademaker | Antibrain | 2023-12-14 | [CChristmas](https://evergreengames.github.io/cchristmas/day2/mademaker.html) | A mod that lets you move around blocks as you play
 Athos | Sparky9d | 2023-12-13 | [#athosmod](https://www.lexaloffle.com/bbs/?pid=138658#p) | An exploration based mod with many available paths. Winner of Best Level Design 2023
-Flare | Veitamura | 2023-12-13 | [github](https://evergreengames.github.io/cchristmas/day1/flare.html) | A short level mod with an otherworldly aesthetic
+Flare | Veitamura | 2023-12-13 | [CChristmas](https://evergreengames.github.io/cchristmas/day1/flare.html) | A short level mod with an otherworldly aesthetic
 labeste | cheesemug | 2023-08-25 | [#labeste](https://www.lexaloffle.com/bbs/?tid=53867) | A laboratory-themed mod that teaches tech
 Celeste Tech Training | Raptite | 2023-07-13 | [#celestetechtrain3](https://www.lexaloffle.com/bbs/?tid=53386) | Gym for learning basic celeste tech, with a hard challenge at the end
 Cafe | GunTurtle | 2023-05-31 | [#gunturtle_cafe](https://www.lexaloffle.com/bbs/?tid=52930) | A very challenging mod with new dash mechanics and coffee bean items. Winner of Best Soundtrack 2023

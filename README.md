@@ -63,7 +63,7 @@ Nostalgia | kdx & Masséna | 2022-02-20 | [#nostalgia](https://www.lexaloffle.co
 Getting Over It with Meep_Moop | Meep | 2022-02-14 | [#goiwmeep](https://meepmoop.itch.io/goi-with-meep-moop) | A metroidvania-like mod where you get over it
 La Sal | pancelor | 2022-01-19 | [#lasal](https://pancelor.itch.io/la-sal) | A short puzzley map mod
 Pauste | Acedic | 2021-12-31 | [#pauste](https://www.lexaloffle.com/bbs/?tid=45913&tkey=nWfw4wA2zvjJJuMmm7IT) | A hard Celeste mod where the pause feature is modified
-Celeste - Break the Targets | Meep, gonengazit, petthepetra, RubyRed, Lord SNEK, Beeb, cominixo | 2021-09-29 | [#ccbtt](https://meepmoop.itch.io/celeste-btt) | A fangame where you quickly break targets with Madeline and Lani
+Celeste - Break the Targets | Meep, gonengazit, petthepetra, RubyRed, Lord Snek, Beeb, cominixo | 2021-09-29 | [#ccbtt](https://meepmoop.itch.io/celeste-btt) | A fangame where you quickly break targets with Madeline and Lani
 Rainier | Sheeb | 2021-09-29 | [#rainier](https://www.lexaloffle.com/bbs/?tid=44808) | A short aesthetic map mod
 Awake | Sparky9d | 2021-09-02 | [#awake_final](https://www.lexaloffle.com/bbs/?pid=96788#p) | A short map mod with new music, mechanics, and alternate routes
 Celeste Flip! | Calverin | 2021-07-24 | [#celeste_flip](https://www.lexaloffle.com/bbs/?pid=celeste_flip) | Celeste but VVVVVV

@@ -4,7 +4,7 @@ Community curated list of the game's mods.
 
 Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Cart ID/Link | Summary
 --- | --- | --- | --- | ---
-Bunnyleste | Warspyking | 2024-12-27 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/1322759426465333349/bunnyleste.p8?ex=6776a876&is=677556f6&hm=c0bd5971526953a3ce622608429a1d294757f3c16483bac2c9b88af331b5fb99&) | A vertical challenge mod where Madeline constantly jumps
+Bunnyleste | Warspyking | 2024-12-27 | [Discord attachment](https://cdn.discordapp.com/attachments/521127150829699072/1322759426465333349/bunnyleste.p8?ex=6776a876&is=677556f6&hm=c0bd5971526953a3ce622608429a1d294757f3c16483bac2c9b88af331b5fb99&) | A vertical challenge mod where Madeline constantly jumps
 Fairway | Meep | 2024-12-24 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day12/fairway.html) | Dash to the flag!
 Labyrinth | ahumanhuman | 2024-12-23 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day11/labyrinth.html) | A short tech-based celeste mod where you collect tokens to unlock new areas
 Blanc | Sheeb | 2023-12-19 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day10/blanc_v2.html) | A short map mod that requires some light speed tech. Received a major update for the 2024 12 days of CChristmas jam
@@ -70,7 +70,7 @@ Volcana | Meep, gonengazit, petthepetra, RubyRed | 2021-07-23 | [#volcana](https
 Fuji | Beeb | 2021-05-21 | [#nitosusuka](https://www.lexaloffle.com/bbs/?tid=42977) | Aesthetic map mod with different endings
 Caroline | Meep, Lord SNEK | 2021-04-01 | [#caroline](https://meepmoop.itch.io/caroline) | The third installment of roundelie adventure
 Maude | Lord SNEK | 2021-02-14 | [#helpdelie](https://www.lexaloffle.com/bbs/?pid=90977#p) | A high effort shitpost
-Real Funk | Acedic | 2021-02-14 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/946213197793361950/realfunk-1.01953125.p8.png) | A funky mod that introduces a skateboard mechanic
+Real Funk | Acedic | 2021-02-14 | [Discord attachment](https://cdn.discordapp.com/attachments/521127150829699072/946213197793361950/realfunk-1.01953125.p8.png) | A funky mod that introduces a skateboard mechanic
 Scrolleste | Warspyking | 2021-02-05 | [#scrolleste](https://www.lexaloffle.com/bbs/?tid=41751) | A scrolling mod that stitched all of the Celeste Classic levels into one large level, with rising lava. 037
 Celeste Dark World | CreepinAtMyDoor | 2021-02-03 | [#celestedarkworld](https://www.lexaloffle.com/bbs/?tid=41389) | Celeste Classic with moderate and sensible difficulty tweaks
 Foreverred | petthepetra | 2020-12-31 | [#foreverred](https://petthepetra.itch.io/foreverred) | Gigantic remake of Everred, roughly 3x the size of Celeste Classic
@@ -83,7 +83,7 @@ Cliffside | RubyRed | 2020-08-09 | [#cliffside](https://evergreengames.itch.io/c
 Sparkleste | Sparky9d | 2020-07-04 | [#sparkmod](https://www.lexaloffle.com/bbs/?tid=38968) | A difficult map mod
 Why are you stealing from Ruins? | Acedic | 2020-07-02 | [#bijuwotira](https://www.lexaloffle.com/bbs/?tid=38345&tkey=RNcKOe8uAP5DRYuKdAX4) | A challenging mod with a twist on grace jump mechanics
 SNEK mod | Lord SNEK, petthepetra | 2020-06-01 | [#snekmod](https://www.lexaloffle.com/bbs/?pid=77497) | A mod about respecting other people's property
-CELAWNE | Meep | 2020-05-27 | [Download](https://cdn.discordapp.com/attachments/521127150829699072/715372716349325442/celawne.p8.png) | Grass
+CELAWNE | Meep | 2020-05-27 | [#celawne](https://www.lexaloffle.com/bbs/cart_info.php?cid=celawne)[^1] | Grass
 Terra Australis | Meep | 2020-03-25 | [#australis](https://meepmoop.itch.io/terraaustralis) | A scrolling mod where you play as a penguin
 Helleste | RoundUpGaming | 2020-03-16 | [#helleste](https://www.lexaloffle.com/bbs/?tid=37087) | A short but difficult mod
 CALIGO | GunTurtle | 2020-01-11 | [#caligo1](https://lexaloffle.com/bbs/?tid=36493) | A short mod with new spin-bounce mechanic
@@ -101,5 +101,10 @@ Celeste Downhill | RevTheGame | 2019-01-26 | [itch.io](https://revthegame.itch.i
 Selena | Baldjared | 2016-12-13 | [#selena_2](https://www.lexaloffle.com/bbs/?tid=39035) | An older short mod with technical platforming
 Perisher | managore | 2016-09-20 | [#28861](https://managore.itch.io/perisher) | A puzzle mod featuring pushable blocks
 Celeste GTGF | seckswrecks | 2016-05-07 | [#20279](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster
-Mutate | Justin | 2016-02-09 | [Download](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) | Celeste Classic but the tiles are slowly changing to other tiles
+Mutate | Justin | 2016-02-09 | [#muteste](https://www.lexaloffle.com/bbs/cart_info.php?cid=muteste)[^2] | Celeste Classic but the tiles are slowly changing to other tiles
 Arielle | Justin | 2015-12-03 | [#17421](https://www.lexaloffle.com/bbs/?pid=17422#p17421) | A short vanilla-difficulty map mod
+
+[^1]: Reupload of a [discord attachment](https://cdn.discordapp.com/attachments/521127150829699072/715372716349325442/celawne.p8.png) to Lexaloffle by Dehoisted
+
+[^2]: Reupload of a [discord attachment](https://cdn.discordapp.com/attachments/705487961411813470/771057512237105212/muteste.p8.png) to Lexaloffle by FlyingPenguin
+

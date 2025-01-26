@@ -3,7 +3,7 @@
 Community curated list of the game's mods, sorted by the date of their last
 update.
 
-Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Cart ID/Link | Summary
+Name | Developer(s) | Release | Cart ID/Link | Summary
 --- | --- | --- | --- | ---
 Bunnyleste | Warspyking | 2024-12-27 | [Discord attachment](https://cdn.discordapp.com/attachments/521127150829699072/1322759426465333349/bunnyleste.p8?ex=6776a876&is=677556f6&hm=c0bd5971526953a3ce622608429a1d294757f3c16483bac2c9b88af331b5fb99&) | A vertical challenge mod where Madeline constantly jumps
 Fairway | Meep | 2024-12-24 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day12/fairway.html) | Dash to the flag!

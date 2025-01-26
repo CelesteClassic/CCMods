@@ -2,7 +2,7 @@
 
 Community curated list of the game's mods.
 
-Name | Developer(s) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Cart ID/Link | Summary
+Name | Developer(s) | Release | Cart ID/Link | Summary
 --- | --- | --- | --- | ---
 Cliffside 2 | RubyRed | 2022-01-08 | [#cliffside2](https://www.lexaloffle.com/bbs/?tid=46053) | A sequel to Cliffside, featuring new levels, mechanics, a remixed soundtrack, and more!
 Beep Arcade | kcaze and David Hashe | 2021-10-15 | [Itch.io](https://kz.itch.io/beep-arcade) | A space themed mod with Celeste 1 mechanics and a hidden puzzle

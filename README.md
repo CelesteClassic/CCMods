@@ -10,7 +10,7 @@ Fairway | Meep | 2024-12-24 | [CChristmas](https://evergreengames.github.io/cchr
 Labyrinth | ahumanhuman | 2024-12-23 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day11/labyrinth.html) | A short tech-based celeste mod where you collect tokens to unlock new areas
 Blanc | Sheeb | 2023-12-19 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day10/blanc_v2.html) | A short map mod that requires some light speed tech. Received a major update for the 2024 12 days of CChristmas jam
 Winter Glass | anshumanneon | 2024-12-21 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day9/winterglass.html) | A challenging short mod that takes place on an icy mountain
-Filament | AntiBrain | 2024-12-20 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day8/filament.html) | A dark mod where you have to move light sources to progress
+Filament | AntiBrain | 2024-12-20 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=146630) | A dark mod where you have to move light sources to progress
 Sterrenmeid | faith | 2024-12-19 | [itch.io](https://sterrenmaid.itch.io/sterrenmeid) | Journey to the center of a strange planet in a mod packed with new mechanics
 Celestial Valley | petthepetra | 2023-12-18 | [#celestial_valley](https://petthepetra.itch.io/celestial-valley) | A farming game where you grow strawberries at the base of celeste mountain. Winner of Most Innovative 2023. Received a major update for the 2024 12 days of CChristmas jam
 Burnin' Trail | Lord Snek & Howf | 2024-12-17 | [#burningtrail](https://www.lexaloffle.com/bbs/?tid=146225) | Explore a dense jungle mountain littered with traps and puzzles, burning your way to the top
@@ -24,7 +24,10 @@ Frozen Caves | AntiBrain | 2024-08-20 | [#frozencaves](https://www.lexaloffle.co
 Celeste Gym | AntiBrain | 2024-08-17 | [#ccgym](https://www.lexaloffle.com/bbs/?tid=143726) | A tutorial mod that teaches some speed tech, with a harder challenge at the end
 Madeline and her Trusty Stepstool vs Celeste Mountain | ooooggll | 2024-07-16 | [#stoolmod](https://www.lexaloffle.com/bbs/?tid=143178) | Partner with your trusty stepstool to reach the peak of this challenging climb
 Celeste: Spring Edition | superboi | 2024-06-25 | [#celeste_spring](https://www.lexaloffle.com/bbs/?tid=142849) | An easier aesthetic mod themed around spring
+CCGA | Antibrain | 2024-04-30 | [#ccga](https://www.lexaloffle.com/bbs/?tid=142040) | An advanced genetic algorithm made to learn how to play celeste classic. updated frequently
+Celeste Downside | Antibrain | 2024-04-05 | [#ccdownside](https://www.lexaloffle.com/bbs/?tid=141476) | A rage mod inspired by Summit Downside from newleste's strawberry jam
 Puzzlemod | Lord Snek | 2024-04-01 | [#puzzlemod](https://www.lexaloffle.com/bbs/?tid=141339) | A celeste mod that's also literally a puzzle
+Roundelie Rescue | Antibrain | 2024-01-28 | [#roundelierescue](https://www.lexaloffle.com/bbs/?tid=140010) | A celeste mod where you have to transport various roundelie to the end of the game
 Site.p8 | Celeste Community | 2023-12-24 | [CChristmas](https://evergreengames.github.io/cchristmas/2023/day12/site.html) | The first completed chapter of newleste.p8, a community project to de-make Celeste (2018) in PICO-8. Winner of Mod of the Year 2023 
 Sugar Rush | Meep, petthepetra, RubyRed, gonengazit | 2023-12-23 | [#sugarrush](https://www.lexaloffle.com/bbs/?pid=140110) | A Wreck-It Ralph themed mod with magical candy pieces
 True North | Meep | 2023-12-23 | [#truenorth](https://meepmoop.itch.io/true-north) | Explore an arctic climate and collect all the hats
@@ -42,6 +45,7 @@ Flare | Veitamura | 2023-12-13 | [CChristmas](https://evergreengames.github.io/c
 labeste | cheesemug | 2023-08-25 | [#labeste](https://www.lexaloffle.com/bbs/?tid=53867) | A laboratory-themed mod that teaches tech
 Celeste Tech Training | Raptite | 2023-07-13 | [#celestetechtrain3](https://www.lexaloffle.com/bbs/?tid=53386) | Gym for learning basic celeste tech, with a hard challenge at the end
 Cafe | GunTurtle | 2023-05-31 | [#gunturtle_cafe](https://www.lexaloffle.com/bbs/?tid=52930) | A very challenging mod with new dash mechanics and coffee bean items. Winner of Best Soundtrack 2023
+Kaizoleste | Antibrain | 2023-05-24 | [#kaizoleste](https://www.lexaloffle.com/bbs/?pid=kaizoleste#p) | A challenging kaizo mod with helpful arrow signs
 Foraker | Sheeb | 2023-01-24 | [#foraker](https://www.lexaloffle.com/bbs/?tid=51338) | Yet another short aesthetic map mod
 Noir | ooooggll & ummmm_ok | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the Celeste classic collab with a new gravity flipping mcehanic
 Roundelie Adventure 8 | Lord Snek | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with a limited moveset and puzzles

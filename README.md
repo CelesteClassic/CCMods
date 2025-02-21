@@ -5,6 +5,7 @@ update.
 
 Name | Developer(s) | Release | Cart ID/Link | Summary
 --- | --- | --- | --- | ---
+Mt. Fua | Swordy | 2025-02-17 | [#mt_fua](https://www.lexaloffle.com/bbs/?pid=162332) | A tough remake of an earlier mod, containing three routes and intresting concepts
 Bunnyleste | Warspyking | 2024-12-27 | [#bunnylestereupload](https://www.lexaloffle.com/bbs/?tid=146799&tkey=n6TNceKrpxqIeVZR5HJ4)[^1] | A vertical challenge mod where Madeline constantly jumps
 Fairway | Meep | 2024-12-24 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day12/fairway.html) | Dash to the flag!
 Labyrinth | ahumanhuman | 2024-12-23 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day11/labyrinth.html) | A short tech-based celeste mod where you collect tokens to unlock new areas

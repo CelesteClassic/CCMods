@@ -5,6 +5,9 @@ update.
 
 Name | Developer(s) | Release | Cart ID/Link | Summary
 --- | --- | --- | --- | ---
+Celeste Classic: Summer Edition | Superboi | 2025-06-30 | [#celeste_summer-0](https://www.lexaloffle.com/bbs/?tid=149918)
+Kaileste | AlfredPerson | 2025-06-13 | [#realkaileste](https://www.lexaloffle.com/bbs/?tid=149502) | A highly precise kaizo mod, with custom graphics and music
+Celeste Maker | Swordy | 2025-03-04 | [#celeste_maker_v1_1-0](https://www.lexaloffle.com/bbs/?pid=163214#p)
 Mt. Fua | Swordy | 2025-02-17 | [#mt_fua](https://www.lexaloffle.com/bbs/?pid=162332) | A tough remake of an earlier mod, containing three routes and intresting concepts
 Bunnyleste | Warspyking | 2024-12-27 | [#bunnylestereupload](https://www.lexaloffle.com/bbs/?tid=146799&tkey=n6TNceKrpxqIeVZR5HJ4)[^1] | A vertical challenge mod where Madeline constantly jumps
 Fairway | Meep | 2024-12-24 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day12/fairway.html) | Dash to the flag!
@@ -25,7 +28,7 @@ Frozen Caves | Antibrain | 2024-08-20 | [#frozencaves](https://www.lexaloffle.co
 Celeste Gym | Antibrain | 2024-08-17 | [#ccgym](https://www.lexaloffle.com/bbs/?tid=143726) | A tutorial mod that teaches some speed tech, with a harder challenge at the end
 Madeline and her Trusty Stepstool vs Celeste Mountain | ooooggll | 2024-07-16 | [#stoolmod](https://www.lexaloffle.com/bbs/?tid=143178) | Partner with your trusty stepstool to reach the peak of this challenging climb
 Celeste: Spring Edition | superboi | 2024-06-25 | [#celeste_spring](https://www.lexaloffle.com/bbs/?tid=142849) | An easier aesthetic mod themed around spring
-CCGA | Antibrain | 2024-04-30 | [#ccga](https://www.lexaloffle.com/bbs/?tid=142040) | An advanced genetic algorithm made to learn how to play celeste classic. updated frequently
+CCGA | Antibrain | 2024-04-30 | [#ccga](https://www.lexaloffle.com/bbs/?tid=142040) | An advanced genetic algorithm made to learn how to play celeste classic. updated semi frequently
 Celeste Downside | Antibrain | 2024-04-05 | [#ccdownside](https://www.lexaloffle.com/bbs/?tid=141476) | A rage mod inspired by Summit Downside from newleste's strawberry jam
 Puzzlemod | Lord Snek | 2024-04-01 | [#puzzlemod](https://www.lexaloffle.com/bbs/?tid=141339) | A celeste mod that's also literally a puzzle
 Roundelie Rescue | Antibrain | 2024-01-28 | [#roundelierescue](https://www.lexaloffle.com/bbs/?tid=140010) | A celeste mod where you have to transport various roundelie to the end of the game
@@ -51,6 +54,7 @@ Foraker | Sheeb | 2023-01-24 | [#foraker](https://www.lexaloffle.com/bbs/?tid=51
 Noir | ooooggll & ummmm_ok | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the Celeste classic collab with a new gravity flipping mcehanic
 Roundelie Adventure 8 | Lord Snek | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with a limited moveset and puzzles
 Storm | CoolElectronics | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with new mechanics
+Acid | KikooDX | 2022-11-14 | [#acid-0](https://www.lexaloffle.com/bbs/?pid=120732#p) | A difficult mod with a unique visual effect
 Peril | TheChowCow, Veitamura, Michael | 2022-10-15 | [#peril](https://www.lexaloffle.com/bbs/?tid=49803) | A map mod with great atmosphere through unique level design
 Land! | eYan | 2022-09-12 | [#land](https://www.lexaloffle.com/bbs/?tid=49313) | A short map mod
 Oldeste | Noel | 2022-08-17 | [#oldeste](https://www.lexaloffle.com/bbs/?tid=48946) | Celeste but the protagonist aged and moves slow
@@ -95,6 +99,7 @@ Helleste | RoundUpGaming | 2020-03-16 | [#helleste](https://www.lexaloffle.com/b
 CALIGO | GunTurtle | 2020-01-11 | [#caligo1](https://lexaloffle.com/bbs/?tid=36493) | A short mod with new spin-bounce mechanic
 Noelle | petthepetra | 2019-12-24 | [#noeleste](https://www.lexaloffle.com/bbs/?pid=71010) | A short holiday-themed mod with some new mechanics
 Everred | petthepetra | 2019-11-21 | [#everred](https://petthepetra.itch.io/everred) | A map mod with 3 areas and 3 routes
+Mars | Chocapic360 | 2019-11-19 | [#marsmountain](https://www.lexaloffle.com/bbs/?pid=70040#p) | A dashless map mod themed after the red planet in question
 Funklost | Celeste Community | 2019-11-15 | [#funklost](https://www.lexaloffle.com/bbs/?tid=35915) | Funky community mod with some new mechanics
 Old Site | Amegpo | 2019-10-26 | [#oldsite](https://amegpo.itch.io/old-site) | A Celeste Classic recreation of chapter 2 in Celeste 2018
 Party Mountain | NethoWarrior | 2019-10-24 | [#partymountain_v3](https://www.lexaloffle.com/bbs/?tid=35749) | Mostly levels from Celeste Classic but modified

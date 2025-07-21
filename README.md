@@ -7,6 +7,7 @@ Name | Developer(s) | Release | Cart ID/Link | Summary
 --- | --- | --- | --- | ---
 Celeste Classic: Summer Edition | Superboi | 2025-06-30 | [#celeste_summer-0](https://www.lexaloffle.com/bbs/?tid=149918) | A short and sweet mod made as a continuation of the Seasons Colllection
 Kaileste | AlfredPerson | 2025-06-13 | [#realkaileste](https://www.lexaloffle.com/bbs/?tid=149502) | A highly precise kaizo mod, with custom graphics and music
+Theo's Return | Howf | 2025-04-01 | [#theos_return](https://www.lexaloffle.com/bbs/?tid=148181) | A Celeste Classic "mod" featuring Theo that recreates areas from Celeste (2018)
 Celeste Maker | Swordy | 2025-03-04 | [#celeste_maker_v1_1-0](https://www.lexaloffle.com/bbs/?pid=163214#p) | A unique tool used to make your own celeste classic levels right in your browser!
 Mt. Fua | Swordy | 2025-02-17 | [#mt_fua](https://www.lexaloffle.com/bbs/?pid=162332) | A tough remake of an earlier mod, containing three routes and intresting concepts
 Bunnyleste | Warspyking | 2024-12-27 | [#bunnylestereupload](https://www.lexaloffle.com/bbs/?tid=146799&tkey=n6TNceKrpxqIeVZR5HJ4)[^1] | A vertical challenge mod where Madeline constantly jumps

@@ -5,6 +5,7 @@ update.
 
 Name | Developer(s) | Release | Cart ID/Link | Summary
 --- | --- | --- | --- | ---
+Celeste: Darkest Hour | Tangent | 2025-07-21 | [#celestedarkesthour](https://www.lexaloffle.com/bbs/?tid=150455) | A challenging mountain with many collectibles where you journey to bring back the light. Released on Celeste Classic's 10th anniversary
 Celeste Classic: Summer Edition | Superboi | 2025-06-30 | [#celeste_summer-0](https://www.lexaloffle.com/bbs/?tid=149918) | A short and sweet mod made as a continuation of the Seasons Colllection
 Kaileste | AlfredPerson | 2025-06-13 | [#realkaileste](https://www.lexaloffle.com/bbs/?tid=149502) | A highly precise kaizo mod, with custom graphics and music
 Theo's Return | Howf | 2025-04-01 | [#theos_return](https://www.lexaloffle.com/bbs/?tid=148181) | A Celeste Classic "mod" featuring Theo that recreates areas from Celeste (2018)

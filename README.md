@@ -7,10 +7,10 @@ Name | Developer(s) | Release | Cart ID/Link | Summary
 --- | --- | --- | --- | ---
 Matrix | Wisper | 2025-12-07 | [#matrix_0](https://www.lexaloffle.com/bbs/?tid=153329) | Boost your way through the matrix in a mod designed for speed
 Celeste: Darkest Hour | Tangent | 2025-07-21 | [#celestedarkesthour](https://www.lexaloffle.com/bbs/?tid=150455) | A challenging mountain with many collectibles where you journey to bring back the light. Released on Celeste Classic's 10th anniversary
-Celeste Classic: Summer Edition | Wisper | 2025-06-30 | [#celeste_summer-0](https://www.lexaloffle.com/bbs/?tid=149918) | A short and sweet mod made as a continuation of the Seasons Colllection
+Celeste Classic: Summer Edition | Wisper | 2025-06-30 | [#celeste_summer](https://www.lexaloffle.com/bbs/?tid=149918) | A short and sweet mod made as a continuation of the Seasons Colllection
 Kaileste | AlfredPerson | 2025-06-13 | [#realkaileste](https://www.lexaloffle.com/bbs/?tid=149502) | A highly precise kaizo mod, with custom graphics and music
 Theo's Return | Howf | 2025-04-01 | [#theos_return](https://www.lexaloffle.com/bbs/?tid=148181) | A Celeste Classic "mod" featuring Theo that recreates areas from Celeste (2018)
-Celeste Maker | Swordy | 2025-03-04 | [#celeste_maker_v1_1-0](https://www.lexaloffle.com/bbs/?pid=163214#p) | A unique tool used to make your own celeste classic levels right in your browser!
+Celeste Maker | Swordy | 2025-03-04 | [#celeste_maker_v1_1](https://www.lexaloffle.com/bbs/?pid=163214#p) | A unique tool used to make your own celeste classic levels right in your browser!
 Mt. Fua | Swordy | 2025-02-17 | [#mt_fua](https://www.lexaloffle.com/bbs/?pid=162332) | A tough remake of an earlier mod, containing three routes and intresting concepts
 Bunnyleste | Warspyking | 2024-12-27 | [#bunnylestereupload](https://www.lexaloffle.com/bbs/?tid=146799&tkey=n6TNceKrpxqIeVZR5HJ4)[^1] | A vertical challenge mod where Madeline constantly jumps. Winner of Best Challenge 2024
 Fairway | Meep | 2024-12-24 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day12/fairway.html) | Dash to the flag!
@@ -58,7 +58,7 @@ Foraker | Sheeb | 2023-01-24 | [#foraker](https://www.lexaloffle.com/bbs/?tid=51
 Noir | ooooggll & ummmm_ok | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the Celeste classic collab with a new gravity flipping mcehanic
 Roundelie Adventure 8 | Lord Snek | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with a limited moveset and puzzles
 Storm | CoolElectronics | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with new mechanics
-Acid | KikooDX | 2022-11-14 | [#acid-0](https://www.lexaloffle.com/bbs/?pid=120732#p) | A difficult mod with a unique visual effect
+Acid | KikooDX | 2022-11-14 | [#acid](https://www.lexaloffle.com/bbs/?pid=120732#p) | A difficult mod with a unique visual effect
 Peril | TheChowCow, Veitamura, Michael | 2022-10-15 | [#peril](https://www.lexaloffle.com/bbs/?tid=49803) | A map mod with great atmosphere through unique level design
 Land! | eYan | 2022-09-12 | [#land](https://www.lexaloffle.com/bbs/?tid=49313) | A short map mod
 Oldeste | Noel | 2022-08-17 | [#oldeste](https://www.lexaloffle.com/bbs/?tid=48946) | Celeste but the protagonist aged and moves slow

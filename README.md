@@ -5,13 +5,14 @@ update.
 
 Name | Developer(s) | Release | Cart ID/Link | Summary
 --- | --- | --- | --- | ---
+Matrix | 2025-12-07 | [#matrix_0](https://www.lexaloffle.com/bbs/?tid=153329) | Boost your way through the matrix in a mod designed for speed
 Celeste: Darkest Hour | Tangent | 2025-07-21 | [#celestedarkesthour](https://www.lexaloffle.com/bbs/?tid=150455) | A challenging mountain with many collectibles where you journey to bring back the light. Released on Celeste Classic's 10th anniversary
 Celeste Classic: Summer Edition | Superboi | 2025-06-30 | [#celeste_summer-0](https://www.lexaloffle.com/bbs/?tid=149918) | A short and sweet mod made as a continuation of the Seasons Colllection
 Kaileste | AlfredPerson | 2025-06-13 | [#realkaileste](https://www.lexaloffle.com/bbs/?tid=149502) | A highly precise kaizo mod, with custom graphics and music
 Theo's Return | Howf | 2025-04-01 | [#theos_return](https://www.lexaloffle.com/bbs/?tid=148181) | A Celeste Classic "mod" featuring Theo that recreates areas from Celeste (2018)
 Celeste Maker | Swordy | 2025-03-04 | [#celeste_maker_v1_1-0](https://www.lexaloffle.com/bbs/?pid=163214#p) | A unique tool used to make your own celeste classic levels right in your browser!
 Mt. Fua | Swordy | 2025-02-17 | [#mt_fua](https://www.lexaloffle.com/bbs/?pid=162332) | A tough remake of an earlier mod, containing three routes and intresting concepts
-Bunnyleste | Warspyking | 2024-12-27 | [#bunnylestereupload](https://www.lexaloffle.com/bbs/?tid=146799&tkey=n6TNceKrpxqIeVZR5HJ4)[^1] | A vertical challenge mod where Madeline constantly jumps
+Bunnyleste | Warspyking | 2024-12-27 | [#bunnylestereupload](https://www.lexaloffle.com/bbs/?tid=146799&tkey=n6TNceKrpxqIeVZR5HJ4)[^1] | A vertical challenge mod where Madeline constantly jumps. Winner of Best Challenge 2024
 Fairway | Meep | 2024-12-24 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day12/fairway.html) | Dash to the flag!
 Labyrinth | ahumanhuman | 2024-12-23 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day11/labyrinth.html) | A short tech-based celeste mod where you collect tokens to unlock new areas
 Blanc | Sheeb | 2023-12-19 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day10/blanc_v2.html) | A short map mod that requires some light speed tech. Received a major update for the 2024 12 days of CChristmas jam
@@ -19,18 +20,19 @@ Winter Glass | anshumanneon | 2024-12-21 | [CChristmas](https://evergreengames.g
 Filament | Antibrain | 2024-12-20 | [#filament](https://www.lexaloffle.com/bbs/?tid=146630) | A dark mod where you have to move light sources to progress
 Sterrenmeid | faith | 2024-12-19 | [itch.io](https://sterrenmaid.itch.io/sterrenmeid) | Journey to the center of a strange planet in a mod packed with new mechanics
 Celestial Valley | petthepetra | 2023-12-18 | [#celestial_valley](https://petthepetra.itch.io/celestial-valley) | A farming game where you grow strawberries at the base of celeste mountain. Winner of Most Innovative 2023. Received a major update for the 2024 12 days of CChristmas jam
-Burnin' Trail | Lord Snek & Howf | 2024-12-17 | [#burningtrail](https://www.lexaloffle.com/bbs/?tid=146225) | Explore a dense jungle mountain littered with traps and puzzles, burning your way to the top
+Burnin' Trail | Lord Snek & Howf | 2024-12-17 | [#burningtrail](https://www.lexaloffle.com/bbs/?tid=146225) | Explore a dense jungle mountain littered with traps and puzzles, burning your way to the top. Winner of Best Visuals 2024
 sans titre | kdx | 2024-12-16 | [#sanstitre](https://www.lexaloffle.com/bbs/?tid=146147) | A short but difficult mod with new visuals
-Shooting Star | ooooggll & btdubbz | 2024-12-15 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day3/shooting_star.html) | The first widescreen celeste mod, taking place in space with new mechanics and powerups
+Shooting Star | ooooggll & btdubbz | 2024-12-15 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day3/shooting_star.html) | The first widescreen celeste mod, taking place in space with new mechanics and powerups. Winner of Best Level Design 2024
 Bump Jump Mania | Cominixo | 2024-12-14 | [#bumpjump](https://evergreengames.github.io/cchristmas/2024/day2/bumpjumpmania.html) | A bump jump consistency minigame with fun skins to unlock
 Duality | Superboi | 2024-12-13 | [CChristmas](https://evergreengames.github.io/cchristmas/2024/day1/duality.html) | Twice the Madeline, twice the fun
 Swap | Antibrain | 2024-11-23 | [#switch](https://www.lexaloffle.com/bbs/?tid=145429) | The first major 60 fps mod, with several other new mechanics
 Gock | Swordy | 2024-08-22 | [#gock_version_1_1](https://www.lexaloffle.com/bbs/?tid=143814) | A difficult mod with a lot of custom spriting and new mechanics
 Frozen Caves | Antibrain | 2024-08-20 | [#frozencaves](https://www.lexaloffle.com/bbs/?tid=143761) | Dig deep into a mine to search for a mysterious buried treasure
 Celeste Gym | Antibrain | 2024-08-17 | [#ccgym](https://www.lexaloffle.com/bbs/?tid=143726) | A tutorial mod that teaches some speed tech, with a harder challenge at the end
-Madeline and her Trusty Stepstool vs Celeste Mountain | ooooggll | 2024-07-16 | [#stoolmod](https://www.lexaloffle.com/bbs/?tid=143178) | Partner with your trusty stepstool to reach the peak of this challenging climb
+Madeline and her Trusty Stepstool vs Celeste Mountain | ooooggll | 2024-07-16 | [#stoolmod](https://www.lexaloffle.com/bbs/?tid=143178) | Partner with your trusty stepstool to reach the peak of this challenging climb. Winner of Most Innovative 2024, Best Main Character 2024, and Mod of the Year 2024
 Celeste: Spring Edition | superboi | 2024-06-25 | [#celeste_spring](https://www.lexaloffle.com/bbs/?tid=142849) | An easier aesthetic mod themed around spring
 CCGA | Antibrain | 2024-04-30 | [#ccga](https://www.lexaloffle.com/bbs/?tid=142040) | An advanced genetic algorithm made to learn how to play celeste classic. updated semi frequently
+wreck | Massena | 2024-04-29 | [#wreck_1_2](https://www.lexaloffle.com/bbs/?tid=142026) | An intermediate mod about escaping a shipwreck. Winner of Best Soundtrack 2024
 Celeste Downside | Antibrain | 2024-04-05 | [#ccdownside](https://www.lexaloffle.com/bbs/?tid=141476) | A rage mod inspired by Summit Downside from newleste's strawberry jam
 Puzzlemod | Lord Snek | 2024-04-01 | [#puzzlemod](https://www.lexaloffle.com/bbs/?tid=141339) | A celeste mod that's also literally a puzzle
 Roundelie Rescue | Antibrain | 2024-01-28 | [#roundelierescue](https://www.lexaloffle.com/bbs/?tid=140010) | A celeste mod where you have to transport various roundelie to the end of the game

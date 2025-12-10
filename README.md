@@ -30,7 +30,7 @@ Gock | Swordy | 2024-08-22 | [#gock_version_1_1](https://www.lexaloffle.com/bbs/
 Frozen Caves | Antibrain | 2024-08-20 | [#frozencaves](https://www.lexaloffle.com/bbs/?tid=143761) | Dig deep into a mine to search for a mysterious buried treasure
 Celeste Gym | Antibrain | 2024-08-17 | [#ccgym](https://www.lexaloffle.com/bbs/?tid=143726) | A tutorial mod that teaches some speed tech, with a harder challenge at the end
 Madeline and her Trusty Stepstool vs Celeste Mountain | ooooggll | 2024-07-16 | [#stoolmod](https://www.lexaloffle.com/bbs/?tid=143178) | Partner with your trusty stepstool to reach the peak of this challenging climb. Winner of Most Innovative 2024, Best Main Character 2024, and Mod of the Year 2024
-Celeste: Spring Edition | Wisper | 2024-06-25 | [#celeste_spring](https://www.lexaloffle.com/bbs/?tid=142849) | An easier aesthetic mod themed around spring
+Celeste: Spring Edition | Wisper | 2024-06-25 | [#celeste_spring](https://www.lexaloffle.com/bbs/?tid=142849) | An easier aesthetic mod themed around spring. Winner of Best Speedgame 2024
 CCGA | Antibrain | 2024-04-30 | [#ccga](https://www.lexaloffle.com/bbs/?tid=142040) | An advanced genetic algorithm made to learn how to play celeste classic. updated semi frequently
 wreck | Massena | 2024-04-29 | [#wreck_1_2](https://www.lexaloffle.com/bbs/?tid=142026) | An intermediate mod about escaping a shipwreck. Winner of Best Soundtrack 2024
 Celeste Downside | Antibrain | 2024-04-05 | [#ccdownside](https://www.lexaloffle.com/bbs/?tid=141476) | A rage mod inspired by Summit Downside from newleste's strawberry jam

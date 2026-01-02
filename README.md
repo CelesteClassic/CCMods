@@ -127,7 +127,7 @@ Adelie | Meep | 2019-02-13 | [#adelie](https://meepmoop.itch.io/adelie) | A metr
 Celeste 1.5 | RubyRed | 2019-01-27 | [#celeste_1_5](https://www.lexaloffle.com/bbs/?tid=33037) | Celeste Classic but with some of the mechanics from Celeste 2018
 Celeste Downhill | RevTheGame | 2019-01-26 | [itch.io](https://revthegame.itch.io/celeste-downhill) | Follow the path of least resistance
 Selena | Baldjared | 2016-12-13 | [#selena_2](https://www.lexaloffle.com/bbs/?tid=39035)[^4] | An older short mod with technical platforming
-Perisher | managore | 2016-09-20 | [#28861](https://managore.itch.io/perisher) | A puzzle mod featuring pushable blocks
+Perisher | managore | 2016-09-20 | [#28861](https://www.lexaloffle.com/bbs/?tid=27694) | A puzzle mod featuring pushable blocks
 Celeste GTGF | seckswrecks | 2016-05-07 | [#20279](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster
 Mutate | Justin | 2016-02-09 | [#muteste](https://www.lexaloffle.com/bbs/cart_info.php?cid=muteste)[^5] | Celeste Classic but the tiles are slowly changing to other tiles
 Arielle | Justin | 2015-12-03 | [#17421](https://www.lexaloffle.com/bbs/?pid=17422#p17421) | A short vanilla-difficulty map mod

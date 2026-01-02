@@ -5,6 +5,18 @@ update.
 
 Name | Developer(s) | Release | Cart ID/Link | Summary
 --- | --- | --- | --- | ---
+Madeline X | Meep | 2025-12-24 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day12/index.html) | Climb in 20XX
+Vector | ooooggll | 2025-12-23 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day11/index.html) | a short mod inspired by newleste's crystal heart dash puzzles
+Neverred | Petthepetra | 2025-12-22 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day10/index.html) | Join Cherry on a mission to document an elusive penguin species living in the great cave system beneath the Everblue Ridge.
+Amazon | Meep | 2025-12-21 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day9/index.html) | Climb a rainforest 
+Eiger | Sheebeehs | 2025-12-20 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day8/index.html) | a very short, puzzly mod
+Scoliosis | Ahumanhuman | 2025-12-19 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day7/index.html) | scoliosis is a mod where you explore and talk to different npcs to feed your new blahaj.
+Caldera | Lord Snek | 2025-12-18 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day6/index.html) | Journey into a ruined mountain to find secrets better left unshared
+Maglev | Merl + Wisper | 2025-12-17 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day5/index.html) | A challenging dashless mod with unique theming. Made in 1 month for ccmas 2025. 
+Tinker | Ooooggll | 2025-12-16 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day4/index.html) | Climb to the top of Tinker Tower!
+Picochu | Moderator Dev | 2025-12-15 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day3/index.html) | Help pika return to eternal slumber by navigating the ancient depths
+Salt | Veitimura | 2025-12-14 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day2/index.html) | The sunset is fading, and the night sky is beginning to rise. We take three steps to the right, completing another circle. Playtesters: złodziej, BebtheBeb, yellowtyper. Thank you! My first attempt at a lot of things. No celeste tech knowledge required except (kinda) for one ending. Inspired by Regressor's Tale of Cultivation and Thich Nhat Hanh
+Maddy On The Moon | Wisper | 2025-12-13 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day1/index.html) | after tripping and falling into a portal, maddy is stuck on the moon! whatever will she do?? I know what i would do tho. do you? probably not. also hehe space go brrrrrr
 Matrix | Wisper | 2025-12-07 | [#matrix_0](https://www.lexaloffle.com/bbs/?tid=153329) | Boost your way through the matrix in a mod designed for speed
 Celeste: Darkest Hour | Tangent | 2025-07-21 | [#celestedarkesthour](https://www.lexaloffle.com/bbs/?tid=150455) | A challenging mountain with many collectibles where you journey to bring back the light. Released on Celeste Classic's 10th anniversary
 Celeste Classic: Summer Edition | Wisper | 2025-06-30 | [#celeste_summer](https://www.lexaloffle.com/bbs/?tid=149918) | A short and sweet mod made as a continuation of the Seasons Colllection

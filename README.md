@@ -125,7 +125,7 @@ Ingeste | splendorr | 2019-04-09 | [#ingeste](https://exult.itch.io/ingeste) | A
 Jusebameya | Yeetboi | 2019-03-06 | [#jusebameya](https://www.lexaloffle.com/bbs/?tid=33547) | A hard mod with a lot of precise and technical platforming
 Adelie | Meep | 2019-02-13 | [#adelie](https://meepmoop.itch.io/adelie) | A metroidvania mod
 Celeste 1.5 | RubyRed | 2019-01-27 | [#celeste_1_5](https://www.lexaloffle.com/bbs/?tid=33037) | Celeste Classic but with some of the mechanics from Celeste 2018
-Celeste Downhill | RevTheGame | 2019-01-26 | [lexaloffle](https://www.lexaloffle.com/bbs/?pid=61225#p) | Follow the path of least resistance
+Celeste Downhill | RevTheGame | 2019-01-26 | [#celestedownhill](https://www.lexaloffle.com/bbs/?pid=61225#p) | Follow the path of least resistance
 Selena | Baldjared | 2016-12-13 | [#selena_2](https://www.lexaloffle.com/bbs/?tid=39035)[^4] | An older short mod with technical platforming
 Perisher | managore | 2016-09-20 | [#28861](https://www.lexaloffle.com/bbs/?tid=27694) | A puzzle mod featuring pushable blocks
 Celeste GTGF | seckswrecks | 2016-05-07 | [#20279](https://www.lexaloffle.com/bbs/?tid=2406) | Celeste but berries make you go faster

@@ -71,7 +71,6 @@ Foraker | Sheeb | 2023-01-24 | [#foraker](https://www.lexaloffle.com/bbs/?tid=51
 Noir | ooooggll & ummmm_ok | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the Celeste classic collab with a new gravity flipping mcehanic
 Roundelie Adventure 8 | Lord Snek | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with a limited moveset and puzzles
 Storm | CoolElectronics | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with new mechanics
-Acid | KikooDX | 2022-11-14 | [#acid](https://www.lexaloffle.com/bbs/?pid=120732#p) | A difficult mod with a unique visual effect
 Peril | TheChowCow, Veitamura, Michael | 2022-10-15 | [#peril](https://www.lexaloffle.com/bbs/?tid=49803) | A map mod with great atmosphere through unique level design
 Land! | eYan | 2022-09-12 | [#land](https://www.lexaloffle.com/bbs/?tid=49313) | A short map mod
 Oldeste | Noel | 2022-08-17 | [#oldeste](https://www.lexaloffle.com/bbs/?tid=48946) | Celeste but the protagonist aged and moves slow

@@ -13,7 +13,7 @@ Eiger | Sheebeehs | 2025-12-20 | [CChristmas](https://evergreengames.github.io/c
 Scoliosis | Ahumanhuman | 2025-12-19 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day7/scoliosis.html) | scoliosis is a mod where you explore and talk to different npcs to feed your new blahaj.
 Caldera | Lord Snek | 2025-12-18 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day6/caldera.html) | Journey into a ruined mountain to find secrets better left unshared
 Maglev | Merl + Wisper | 2025-12-17 | [#solis63](https://www.lexaloffle.com/bbs/?tid=153536) | A challenging dashless mod with unique theming. Made in 1 month for ccmas 2025. 
-Tinker | Ooooggll | 2025-12-16 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day4/tinker.html) | Climb to the top of Tinker Tower!
+Tinker | ooooggll | 2025-12-16 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day4/tinker.html) | Climb to the top of Tinker Tower!
 Picochu | Moderator Dev | 2025-12-15 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day3/picochu.html) | Help pika return to eternal slumber by navigating the ancient depths
 Salt | Veitamura | 2025-12-14 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day2/salt.html) | The sunset is fading, and the night sky is beginning to rise. We take three steps to the right, completing another circle. Playtesters: złodziej, BebtheBeb, yellowtyper. Thank you! My first attempt at a lot of things. No celeste tech knowledge required except (kinda) for one ending. Inspired by Regressor's Tale of Cultivation and Thich Nhat Hanh
 Maddy On The Moon | Wisper | 2025-12-13 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day1/maddy_on_moon.html) | after tripping and falling into a portal, maddy is stuck on the moon! whatever will she do?? I know what i would do tho. do you? probably not. also hehe space go brrrrrr
@@ -68,13 +68,13 @@ Celeste Tech Training | Raptite | 2023-07-13 | [#celestetechtrain3](https://www.
 Cafe | GunTurtle | 2023-05-31 | [#gunturtle_cafe](https://www.lexaloffle.com/bbs/?tid=52930) | A very challenging mod with new dash mechanics and coffee bean items. Winner of Best Soundtrack 2023
 Kaizoleste | Antibrain | 2023-05-24 | [#kaizoleste](https://www.lexaloffle.com/bbs/?pid=kaizoleste#p) | A challenging kaizo mod with helpful arrow signs
 Foraker | Sheeb | 2023-01-24 | [#foraker](https://www.lexaloffle.com/bbs/?tid=51338) | Yet another short aesthetic map mod
-Noir | ooooggll & ummmm_ok | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the Celeste classic collab with a new gravity flipping mcehanic
+Noir | ooooggll & Ummmm_ok | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) [#noir](https://www.lexaloffle.com/bbs/?pid=121997&tkey=nuzOCupuX8SvrkBltihV)| A part of the Celeste classic collab with a new gravity flipping mcehanic
 Roundelie Adventure 8 | Lord Snek | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with a limited moveset and puzzles
 Storm | CoolElectronics | 2023-01-16 | [#celeste_classic_collab](https://www.lexaloffle.com/bbs/?tid=51210) | A part of the celeste classic collab with new mechanics
 Peril | TheChowCow, Veitamura, Michael | 2022-10-15 | [#peril](https://www.lexaloffle.com/bbs/?tid=49803) | A map mod with great atmosphere through unique level design
 Land! | eYan | 2022-09-12 | [#land](https://www.lexaloffle.com/bbs/?tid=49313) | A short map mod
 Oldeste | Noel | 2022-08-17 | [#oldeste](https://www.lexaloffle.com/bbs/?tid=48946) | Celeste but the protagonist aged and moves slow
-Hallow Neste | ooooggll | 2022-07-03 | [#hallowneste](https://www.lexaloffle.com/bbs/?tid=48396) | A short Celeste Classic x Hollow Knight mod
+Hallow Neste | ooooggll & Ummmm_ok| 2022-07-03 | [#hallowneste](https://www.lexaloffle.com/bbs/?tid=48396) | A short Celeste Classic x Hollow Knight mod
 Rosetta | Meep | 2022-06-30 | [#rosetta](https://www.lexaloffle.com/bbs/?pid=140136#p) | A puzzley mod where you uncover the secrets of a pyramid
 Celeste Factory | Howf | 2022-06-29 | [itch.io](https://wuffmakesgames.itch.io/celeste-factory) | A wip newleste rendition with one chapter complete
 Abandoned | CoolElectronics | 2022-06-25 | [#buweyajazi](https://www.lexaloffle.com/bbs/?tid=47976) | A mod with new mechanics and unique level design

@@ -5,6 +5,7 @@ update.
 
 Name | Developer(s) | Release | Cart ID/Link | Summary
 --- | --- | --- | --- | ---
+Yin & Yang | Lucidneon & Wisper | 2026-08-12 | [Lexaloffle](https://www.lexaloffle.com/bbs/?tid=158654) | A large black-and-white mod themed around a constantly shifting perspective
 Madeline X | Meep | 2025-12-24 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day12/maddyx.html) | Climb in 20XX
 Vector | ooooggll | 2025-12-23 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day11/vector.html) | a short mod inspired by newleste's crystal heart dash puzzles
 Neverred | Petthepetra | 2025-12-22 | [CChristmas](https://evergreengames.github.io/cchristmas/2025/day10/neverred.html) | Join Cherry on a mission to document an elusive penguin species living in the great cave system beneath the Everblue Ridge.

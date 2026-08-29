@@ -84,6 +84,7 @@ Fault 2 | SandwichBlamwich | 2022-06-11 | [#fault2](https://www.lexaloffle.com/b
 Fault | SandwichBlamwich | 2022-05-17 | [#madelinefault](https://www.lexaloffle.com/bbs/?tid=47841) | A vertically scrolling map mod
 Farland v2 | Kamera | 2022-04-10 | [#farlandv2](https://www.lexaloffle.com/bbs/?pid=109994#p) | A sequel / remake of Farland featuring new themes, levels, and music
 Rainier 2 | Sheeb | 2022-04-03 | [#rainier2_final](https://www.lexaloffle.com/bbs/?tid=47229) | Another short aesthetic map mod
+Denali | Affinity, Expl0zion, Flyingpenguin, Kamera, Sheebeehs, Michael, Rav81, Sparky9d | 2022-04-02 | [#denali-0](https://www.lexaloffle.com/bbs/?tid=47194) | A large-scale community project with a whole new theme featuring some mechanics from 2018 Celeste, left partially unfinished
 Autoste | kdx | 2022-02-20 | [#auteste](https://www.lexaloffle.com/bbs/?tid=46682) | Celeste Classic autorunner
 Nostalgia | kdx & Masséna | 2022-02-20 | [#nostalgia](https://www.lexaloffle.com/bbs/?tid=43061) | Nostalgia for a place
 Getting Over It with Meep_Moop | Meep | 2022-02-14 | [#goiwmeep](https://www.lexaloffle.com/bbs/?tid=49020) | A metroidvania-like mod where you get over it
